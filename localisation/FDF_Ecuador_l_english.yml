@@ -1,0 +1,36 @@
+﻿l_english:
+ 
+ #Country Name
+ ECU_radical_populist:0 "Republic of Ecuador"
+ ECU_radical_populist_DEF:0 "The Republic of Ecuador"
+ ECU_radical_populist_ADJ:0 "Ecuadorian"
+ ECU_chartist:0 "Republic of Ecuador"
+ ECU_chartist_DEF:0 "The Republic of Ecuador"
+ ECU_chartist_ADJ:0 "Ecuadorian"
+ ECU_radical_rationalist:0 "Republic of Ecuador"
+ ECU_radical_rationalist_DEF:0 "The Republic of Ecuador"
+ ECU_radical_rationalist_ADJ:0 "Ecuadorian"
+ ECU_social_paternalist:0 "Republic of Ecuador"
+ ECU_social_paternalist_DEF:0 "The Republic of Ecuador"
+ ECU_social_paternalist_ADJ:0 "Ecuadorian"
+ ECU_revolutionary_romanticist:0 "Republic of Ecuador"
+ ECU_revolutionary_romanticist_DEF:0 "The Republic of Ecuador"
+ ECU_revolutionary_romanticist_ADJ:0 "Ecuadorian"
+ ECU_ancienist:0 "Republic of Ecuador"
+ ECU_ancienist_DEF:0 "The Republic of Ecuador"
+ ECU_ancienist_ADJ:0 "Ecuadorian"
+ 
+ 
+ #Parties
+ ECU_radical_populist_party:0 ""
+ ECU_radical_populist_party_long:0 ""
+ ECU_chartist_party:0 ""
+ ECU_chartist_party_long:0 ""
+ ECU_radical_rationalist_party:0 ""
+ ECU_radical_rationalist_party_long:0 ""
+ ECU_social_paternalist_party:0 ""
+ ECU_social_paternalist_party_long:0 ""
+ ECU_revolutionary_romanticist_party:0 ""
+ ECU_revolutionary_romanticist_party_long:0 ""
+ ECU_ancienist_party:0 "PNE"
+ ECU_ancienist_party_long:0 "Partido Nacionalista del Ecuador - Nationalist Party of Ecuador"

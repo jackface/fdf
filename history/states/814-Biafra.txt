@@ -1,0 +1,18 @@
+state={
+	id=814
+	name="STATE_814" #Biafra
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+		}
+		
+	}
+	provinces={
+		4889 1992 7978 8034 10831 
+	}
+	manpower=5341251
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

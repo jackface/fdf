@@ -1,0 +1,24 @@
+state={
+	id=827
+	name="STATE_827" #Karachi
+	history={
+		buildings = {
+			infrastructure = 4
+			3456 = {
+				naval_base = 4
+			}
+		}
+		owner = RUS
+		
+		
+		victory_points = { 
+			3456 10 
+		}
+	}
+	provinces={
+		3456 
+	}
+	manpower=604124
+	buildings_max_level_factor=1.000
+	state_category=city
+}

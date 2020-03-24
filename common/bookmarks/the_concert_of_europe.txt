@@ -1,0 +1,94 @@
+bookmarks = {
+	bookmark = {
+		name = "CONCERT_OF_EARTH_NAME"
+		desc = "CONCERT_OF_EARTH_DESC"
+		date = 1925.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "FRA"
+		default = yes
+		
+		"DEN"={
+			history = "DEN_CONCERT_OF_EARTH_DESC"
+			ideology = radical_rationalist
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"ENG"={
+			history = "ENG_CONCERT_OF_EARTH_DESC"
+			ideology = social_paternalist
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"GER"={
+			history = "GER_CONCERT_OF_EARTH_DESC"
+			ideology = social_paternalist
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"FRA"={
+			history = "FRA_CONCERT_OF_EARTH_DESC"
+			ideology = social_paternalist
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"TUR"={
+			history = "TUR_CONCERT_OF_EARTH_DESC"
+			ideology = ancienist
+			ideas = {
+				
+			}	
+			focuses = {
+				
+			}		
+		}
+		"RUS"={
+			history = "RUS_CONCERT_OF_EARTH_DESC"
+			ideology = ancienist
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}	
+		}
+		
+		"AUS"={
+			history = "AUS_CONCERT_OF_EARTH_DESC"
+			ideology = ancienist
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}	
+		}
+
+		"---"={
+			history = "OTHER_CONCERT_OF_EARTH_DESC"
+		}
+
+
+		# minors from DLC ####
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

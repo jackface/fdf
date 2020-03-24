@@ -1,0 +1,36 @@
+﻿l_english:
+ 
+ #Country Name
+ FRA_radical_populist:0 "French Republic"
+ FRA_radical_populist_DEF:0 "The French Republic"
+ FRA_radical_populist_ADJ:0 "French"
+ FRA_chartist:0 "French Republic"
+ FRA_chartist_DEF:0 "The French Republic"
+ FRA_chartist_ADJ:0 "French"
+ FRA_radical_rationalist:0 "French Republic"
+ FRA_radical_rationalist_DEF:0 "The French Republic"
+ FRA_radical_rationalist_ADJ:0 "French"
+ FRA_social_paternalist:0 "French Republic"
+ FRA_social_paternalist_DEF:0 "The French Republic"
+ FRA_social_paternalist_ADJ:0 "French"
+ FRA_revolutionary_romanticist:0 "French Republic"
+ FRA_revolutionary_romanticist_DEF:0 "The French Republic"
+ FRA_revolutionary_romanticist_ADJ:0 "French"
+ FRA_ancienist:0 "French Republic"
+ FRA_ancienist_DEF:0 "The French Republic"
+ FRA_ancienist_ADJ:0 "French"
+ 
+ 
+ #Parties
+ FRA_radical_populist_party:0 "Montagnards(D)"
+ FRA_radical_populist_party_long:0 "Ligue des Travailleurs Français (Droite) - French Workers League (Right)"
+ FRA_chartist_party:0 "Montagnards(G)"
+ FRA_chartist_party_long:0 "Ligue des Travailleurs Français (Gauche) - French Workers League (Left)"
+ FRA_radical_rationalist_party:0 "Jacobins"
+ FRA_radical_rationalist_party_long:0 "Société des Jacobins, amis de la liberté et de l'égalité - Society of the Jacobins, Friends of Freedom and Equality"
+ FRA_social_paternalist_party:0 "Girondins"
+ FRA_social_paternalist_party_long:0 "Parti de la Démocratie Modérée de France - Moderate Democracy Party of France"
+ FRA_revolutionary_romanticist_party:0 "Dantonists"
+ FRA_revolutionary_romanticist_party_long:0 "Parti Populaire Français - French Popular Party"
+ FRA_ancienist_party:0 "Monarchiens"
+ FRA_ancienist_party_long:0 "Amis de la Constitution Monarchique - Friends of the Monarchist Constitution"

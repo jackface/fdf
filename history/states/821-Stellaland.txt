@@ -1,0 +1,18 @@
+state={
+	id=821
+	name="STATE_821" #Stellaland
+	history={
+		owner = STL
+		add_core_of = STL
+		buildings = {
+			infrastructure = 2
+		}
+		
+	}
+	provinces={
+		1509 2213 5203 10668 
+	}
+	manpower=1111415
+	buildings_max_level_factor=1.000
+	state_category=city
+}

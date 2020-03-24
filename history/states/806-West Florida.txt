@@ -1,0 +1,22 @@
+state={
+	id=806
+	name="STATE_806"
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 2
+			10352 = {
+				naval_base = 2
+			}
+		}
+		
+		
+		add_core_of = USA
+	}
+	provinces={
+		10352 10380
+	}
+	manpower=1023120
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

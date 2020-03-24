@@ -1,0 +1,23 @@
+state={
+	id=810
+	name="STATE_810" 
+	history={
+		owner = COC
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		victory_points = {
+			4611 1
+		}
+		
+		
+		add_core_of = COC
+	}
+	provinces={
+		1633 4611 4624 
+	}
+	manpower=1141251
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,19 @@
+state={
+	id=812
+	name="STATE_812" #Bogota 2 
+	history={ 
+		owner = BOG
+		add_core_of = BOG
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		
+	}
+	provinces={
+		1887 5026 
+	}
+	manpower=341251
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

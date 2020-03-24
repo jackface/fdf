@@ -1,0 +1,37 @@
+﻿l_english:
+ 
+ #Country Name
+ SPR_radical_populist:0 "United Provinces of Spain"
+ SPR_radical_populist_DEF:0 "The United Provinces of Spain"
+ SPR_radical_populist_ADJ:0 "Spanish"
+ SPR_chartist:0 "United Provinces of Spain"
+ SPR_chartist_DEF:0 "The United Provinces of Spain"
+ SPR_chartist_ADJ:0 "Spanish"
+ SPR_radical_rationalist:0 "United Provinces of Spain"
+ SPR_radical_rationalist_DEF:0 "The United Provinces of Spain"
+ SPR_radical_rationalist_ADJ:0 "Spanish"
+ SPR_social_paternalist:0 "United Provinces of Spain"
+ SPR_social_paternalist_DEF:0 "The United Provinces of Spain"
+ SPR_social_paternalist_ADJ:0 "Spanish"
+ SPR_revolutionary_romanticist:0 "United Provinces of Spain"
+ SPR_revolutionary_romanticist_DEF:0 "The United Provinces of Spain"
+ SPR_revolutionary_romanticist_ADJ:0 "Spanish"
+ SPR_ancienist:0 "United Provinces of Spain"
+ SPR_ancienist_DEF:0 "The United Provinces of Spain"
+ SPR_ancienist_ADJ:0 "Spanish" #
+ 
+ 
+ #Parties
+ 
+ SPR_radical_populist_party:0 ""
+ SPR_radical_populist_party_long:0 ""
+ SPR_chartist_party:0 ""
+ SPR_chartist_party_long:0 ""
+ SPR_radical_rationalist_party:0 "Primeras Amigas"
+ SPR_radical_rationalist_party_long:0 "Club de Amigas de la Revolución - Club of Friends of The Revolution"
+ SPR_social_paternalist_party:0 ""
+ SPR_social_paternalist_party_long:0 ""
+ SPR_revolutionary_romanticist_party:0 ""
+ SPR_revolutionary_romanticist_party_long:0 ""
+ SPR_ancienist_party:0 ""
+ SPR_ancienist_party_long:0 ""

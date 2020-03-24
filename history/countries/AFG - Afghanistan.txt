@@ -1,0 +1,37 @@
+﻿capital = 267
+
+
+set_technology = {
+	infantry_weapons = 1
+	gwtank = 1
+	basic_light_tank = 1
+}
+
+
+
+set_politics = {
+	ruling_party = ancienist
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	radical_populist = 15
+	chartist = 13
+	radical_rationalist = 30
+	social_paternalist = 31
+	revolutionary_romanticist = 7
+	ancienist = 4
+}
+
+create_country_leader = {
+	name = "H.M. Laro Arad Afghanishah"
+	desc = "POLITICS_HIS_MAJESTY_LARO_ARAD_AFGHANISHAH_DESC"
+	picture = "Laro_Arad_Afghanishah.dds"
+	expire = "1965.1.1"
+	ideology = ancienist_ideology
+	traits = {
+		#
+	}
+}

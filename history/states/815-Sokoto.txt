@@ -1,0 +1,18 @@
+state={
+	id=815
+	name="STATE_815" #Sokoto
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+		}
+		
+	}
+	provinces={
+		2025 8021 10820 8109 4997 5028 4972 4938 1969 1932 1891 
+	}
+	manpower=8341251
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

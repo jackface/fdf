@@ -1,0 +1,18 @@
+state={
+	id=823
+	name="STATE_823" #Springbokland
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+		owner = SPI
+		add_core_of = SPI
+		
+	}
+	provinces={
+		4528 10442 
+	}
+	manpower=901242
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

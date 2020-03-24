@@ -1,0 +1,19 @@
+state={
+	id=811
+	name="STATE_811" 
+	history={
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		owner = AGU
+		add_core_of = AGU
+		
+	}
+	provinces={
+		7936 7991 10790 10846 
+	}
+	manpower=1141251
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

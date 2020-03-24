@@ -1,0 +1,18 @@
+state={
+	id=800
+	name="STATE_800"
+	history={
+		owner = DEN
+		buildings = {
+			infrastructure = 2
+		}
+		
+		add_core_of = DEN
+	}
+	provinces={
+		 168 3111 6185 6207 9066 9171 11049 11116 11187
+	}
+	manpower=223124
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

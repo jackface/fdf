@@ -1,0 +1,36 @@
+﻿capital = 292
+
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	gwtank = 1
+}
+
+set_convoys = 5
+
+set_politics = {
+	ruling_party = ancienist
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	radical_populist = 15
+	chartist = 13
+	radical_rationalist = 30
+	social_paternalist = 31
+	revolutionary_romanticist = 7
+	ancienist = 4
+}
+
+create_country_leader = {
+	name = "H.M. Muhammad Al Saud"
+	desc = "POLITICS_HM_MUHAMMAD_BIN_ABDUL_RAHMAN_BIN_FAISAL_AL_SAUD_DESC"
+	picture = "Muhammad_Al_Saud_I.dds"
+	expire = "1965.1.1"
+	ideology = ancienist_ideology
+	traits = {
+		#
+	}
+}

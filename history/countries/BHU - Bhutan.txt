@@ -1,0 +1,36 @@
+﻿capital = 324
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_mountaineers = 1
+}
+set_war_support = 0.1
+set_stability = 0.8
+
+set_politics = {
+	ruling_party = ancienist
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	radical_populist = 15
+	chartist = 13
+	radical_rationalist = 30
+	social_paternalist = 31
+	revolutionary_romanticist = 7
+	ancienist = 4
+}
+
+create_country_leader = {
+	name = "H.M.D.G. Ugyen Wangchuck"
+	desc = "POLITICS_UGYEN_WANGCHUCK_DESC"
+	picture = "HM_Ugyen_Wangchuck.dds"
+	expire = "1965.1.1"
+	ideology = ancienist_ideology
+	traits = {
+		#
+	}
+}

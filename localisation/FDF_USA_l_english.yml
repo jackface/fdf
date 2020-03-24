@@ -1,0 +1,37 @@
+﻿l_english:
+ 
+ #Country Name
+ 
+ USA_radical_populist:0 "United States of America"
+ USA_radical_populist_DEF:0 "The United States of America"
+ USA_radical_populist_ADJ:0 "American"
+ USA_chartist:0 "United States of America"
+ USA_chartist_DEF:0 "The United States of America"
+ USA_chartist_ADJ:0 "American"
+ USA_radical_rationalist:0 "United States of America"
+ USA_radical_rationalist_DEF:0 "The United States of America"
+ USA_radical_rationalist_ADJ:0 "American"
+ USA_social_paternalist:0 "United States of America"
+ USA_social_paternalist_DEF:0 "The United States of America"
+ USA_social_paternalist_ADJ:0 "American"
+ USA_revolutionary_romanticist:0 "United States of America"
+ USA_revolutionary_romanticist_DEF:0 "The United States of America"
+ USA_revolutionary_romanticist_ADJ:0 "American"
+ USA_ancienist:0 "United States of America"
+ USA_ancienist_DEF:0 "The United States of America"
+ USA_ancienist_ADJ:0 "American"
+ 
+ #Parties
+ 
+ USA_radical_populist_party:0 "FMP"
+ USA_radical_populist_party_long:0 "Free Mans Party"
+ USA_chartist_party:0 "DEP"
+ USA_chartist_party_long:0 "Democratic Emancipation Party"
+ USA_radical_rationalist_party:0 "NDRP"
+ USA_radical_rationalist_party_long:0 "New Democratic-Republican Party"
+ USA_social_paternalist_party:0 "Feds"
+ USA_social_paternalist_party_long:0 "Federal Whig Party"
+ USA_revolutionary_romanticist_party:0 "Bloods"
+ USA_revolutionary_romanticist_party_long:0 "Blood of Liberty Club"
+ USA_ancienist_party:0 "NLP"
+ USA_ancienist_party_long:0 "National Liberal Party"

@@ -1,0 +1,30 @@
+
+state={
+	id=558
+	name="STATE_558"
+	manpower = 9757000
+	
+	state_category = city
+	resources={
+		rubber=2 # was: 3
+	}
+	history={
+		owner = HOL
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			2050 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			2050 1
+		}
+
+	}
+
+	provinces={
+		2050 4952 12731 12817 12900 
+	}
+}

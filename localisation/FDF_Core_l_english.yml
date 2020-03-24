@@ -1,0 +1,45 @@
+﻿l_english:
+ 
+ #Country Name
+ FDF_BOX_NAME:0 "[?ROOT.GetName]"
+ 
+ #Bookmarks
+ CONCERT_OF_EARTH_NAME:0 "Concert of Earth"
+ CONCERT_OF_EARTH_DESC:0 "Five years ago the planet was embroiled in what was one of the bloodiest wars in history, The Great War. Since then the geopolitical landscape of this planet has shifted drastically. With Sweden falling to a Radical Populist revolution, Poland achieving independence from Russia, Mexico annexing Cuba, and much much more."
+ #Ideologies
+ 
+ ancienist:0 "Ancienist"
+ ancienist_ideology:0 "Ancienist"
+ ancienist_ideology_desc:0 "Ancienism, developed out of the ideas of counter-revolutionaries in the French Revolution. Named after the Ancient regimes of old, the word has come to mean more then simply monarchism. Instead it has come to mean a form of nepotist rule, family, friends. Usually monarchist in nature, many even call it monarchist when fallen under a Republic."
+ ancienist_desc:0 "Ancienist Regime"
+ ancienist_noun:0 "Ancienist"
+ 
+ revolutionary_romanticist:0 "Revolutionary Romanticist"
+ revolutionary_romanticist_ideology:0 "Revolutionary Romanticist"
+ revolutionary_romanticist_ideology_desc:0 "Revolutionary Romanticism is the ideological wing of the romanticist movement, what started out as an art movement rapidly evolved. The ideology is based around romanticizing the people, usually specific culture of ones self or sometimes even religion. Romanticizing one's own nation, or religion, or some form of group in which they belong, aspects of the ideology have even been picked up by some proponents of Socialist ideals."
+ revolutionary_romanticist_desc:0 "Revolutionary Romantic Regime"
+ revolutionary_romanticist_noun:0 "Revolutionary Romanticist"
+ 
+ social_paternalist:0 "Social Paternalist"
+ social_paternalist_ideology:0 "Social Paternalist"
+ social_paternalist_ideology_desc:0 "Social Paternalism is a traditionalist and at times reactionary ideology, it tends to follow the lines of the elite and religion but sometimes is disconnected from both. Sometimes nicknamed Conservatism, the ideology is influenced by many things such as the ideals of Edmund Burke, the Girondins, Otto Von Bismarck, and many more."
+ social_paternalist_desc:0 "Social Paternalist Regime"
+ social_paternalist_noun:0 "Social Paternalist"
+ 
+ radical_rationalist:0 "Radical Rationalist"
+ radical_rationalist_ideology:0 "Radical Rationalist"
+ radical_rationalist_ideology_desc:0 "Radical Rationalism is an idea that evolved from people such as Descartes, Lock, Robespierre, Jackson and many many more. Highly based on liberty and personal freedoms it also takes into account ideas of rational thought and pragmatism. Sometimes being labeled as a moderate ideology in the modern day, some forget its origins in being a truly radical ideology, evolving from the French Revolution under the Jacobins. Radical Rationalism stands as a gateway to many ideologies, and encompasses most of liberal thought."
+ radical_rationalist_desc:0 "Radical Rationalist Regime"
+ radical_rationalist_noun:0 "Radical Rationalist"
+ 
+ chartist:0 "Chartist"
+ chartist_ideology:0 "Chartist"
+ chartist_ideology_desc:0 "Chartism is an ideology that originated in Britain, the ideology tends to advocate for workers rights and democracy, however in the past it has also been known to advocate for a welfare based society. Jacques Roux is considered one of the main inspirations for the Chartist movement but people like Rousseau, Stirner, Proudhon and more."
+ chartist_desc:0 "Chartist Regime"
+ chartist_noun:0 "Chartist"
+ 
+ radical_populist:0 "Radical Populist"
+ radical_populist_ideology:0 "Radical Populist"
+ radical_populist_ideology_desc:0 "Radical Populism evolved from the ideas of Jacobinism, Chartism, and Romanticism, now a more authoritarian take on the chartist ideas of old, Radical Populism takes inspiration from the Marxian Communism, Engelist Worker's Fascism, and many more ideas all coming together."
+ radical_populist_desc:0 "Radical Populist Regime"
+ radical_populist_noun:0 "Radical Populist"

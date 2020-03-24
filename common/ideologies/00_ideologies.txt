@@ -1,0 +1,251 @@
+ideologies = {
+
+
+	radical_populist = {
+		
+		types = {
+		
+			radical_populist_ideology = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_RADPOP_1"
+			"FACTION_NAME_RADPOP_2"
+			"FACTION_NAME_RADPOP_3"
+			"FACTION_NAME_RADPOP_4"
+			"FACTION_NAME_RADPOP_5"
+		}
+		
+		color = { 173 65 55 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+
+	}
+	
+	chartist = {
+	
+		types = {
+			
+			chartist_ideology = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_CHARTIST_1"
+			"FACTION_NAME_CHARTIST_2"
+			"FACTION_NAME_CHARTIST_3"
+			"FACTION_NAME_CHARTIST_4"
+			"FACTION_NAME_CHARTIST_5"
+			"FACTION_NAME_CHARTIST_6"
+		}
+		
+		color = { 197 76 107 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	
+	radical_rationalist = {
+	
+		types = {
+		
+			radical_rationalist_ideology  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_RADRAT_1"
+			"FACTION_NAME_RADRAT_2"
+			"FACTION_NAME_RADRAT_3"
+			"FACTION_NAME_RADRAT_4"
+			"FACTION_NAME_RADRAT_5"
+		}
+		
+		color = { 218 179 73 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	
+	social_paternalist = {
+	
+		types = {
+		
+			social_paternalist_ideology  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_SOCPAT_1"
+			"FACTION_NAME_SOCPAT_2"
+			"FACTION_NAME_SOCPAT_3"
+			"FACTION_NAME_SOCPAT_4"
+			"FACTION_NAME_SOCPAT_5"
+		}
+		
+		color = { 16 29 58 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	
+	revolutionary_romanticist = {
+	
+		types = {
+		
+			revolutionary_romanticist_ideology  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_REVOLUTIONARY_ROMANTICIST_1"
+			"FACTION_NAME_REVOLUTIONARY_ROMANTICIST_2"
+			"FACTION_NAME_REVOLUTIONARY_ROMANTICIST_3"
+			"FACTION_NAME_REVOLUTIONARY_ROMANTICIST_4"
+			"FACTION_NAME_REVOLUTIONARY_ROMANTICIST_5"
+		}
+		
+		color = { 55 77 28 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	
+	ancienist = {
+	
+		types = {
+		
+			ancienist_ideology  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_ANCIENIST_1"
+			"FACTION_NAME_ANCIENIST_2"
+			"FACTION_NAME_ANCIENIST_3"
+			"FACTION_NAME_ANCIENIST_4"
+			"FACTION_NAME_ANCIENIST_5"
+		}
+		
+		color = { 90 26 58 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+}

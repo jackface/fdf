@@ -1,0 +1,24 @@
+﻿l_english:
+ 
+ #Country Name
+ GAL_radical_populist:0 "Kingdom of Galicia and Lodomeria"
+ GAL_radical_populist_DEF:0 "The Kingdom of Galicia and Lodomeria"
+ GAL_radical_populist_ADJ:0 "Galician-Lodomerian"
+ GAL_chartist:0 "Kingdom of Galicia and Lodomeria"
+ GAL_chartist_DEF:0 "The Kingdom of Galicia and Lodomeria"
+ GAL_chartist_ADJ:0 "Galician-Lodomerian"
+ GAL_radical_rationalist:0 "Kingdom of Galicia and Lodomeria"
+ GAL_radical_rationalist_DEF:0 "The Kingdom of Galicia and Lodomeria"
+ GAL_radical_rationalist_ADJ:0 "Galician-Lodomerian"
+ GAL_social_paternalist:0 "Kingdom of Galicia and Lodomeria"
+ GAL_social_paternalist_DEF:0 "The Kingdom of Galicia and Lodomeria"
+ GAL_social_paternalist_ADJ:0 "Galician-Lodomerian"
+ GAL_revolutionary_romanticist:0 "Kingdom of Galicia and Lodomeria"
+ GAL_revolutionary_romanticist_DEF:0 "The Kingdom of Galicia and Lodomeria"
+ GAL_revolutionary_romanticist_ADJ:0 "Galician-Lodomerian"
+ GAL_ancienist:0 "Kingdom of Galicia and Lodomeria"
+ GAL_ancienist_DEF:0 "The Kingdom of Galicia and Lodomeria"
+ GAL_ancienist_ADJ:0 "Galician-Lodomerian"
+ 
+ 
+ #Parties

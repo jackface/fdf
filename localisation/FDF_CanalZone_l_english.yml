@@ -1,0 +1,37 @@
+﻿l_english:
+ 
+ #Country Name
+ PAC_radical_populist:0 "P.I. Canal Zone"
+ PAC_radical_populist_DEF:0 "The Panama International Canal Zone"
+ PAC_radical_populist_ADJ:0 "Canal Zone"
+ PAC_chartist:0 "P.I. Canal Zone"
+ PAC_chartist_DEF:0 "The Panama International Canal Zone"
+ PAC_chartist_ADJ:0 "Canal Zone"
+ PAC_radical_rationalist:0 "P.I. Canal Zone"
+ PAC_radical_rationalist_DEF:0 "The Panama International Canal Zone"
+ PAC_radical_rationalist_ADJ:0 "Canal Zone"
+ PAC_social_paternalist:0 "P.I. Canal Zone"
+ PAC_social_paternalist_DEF:0 "The Panama International Canal Zone"
+ PAC_social_paternalist_ADJ:0 "Canal Zone"
+ PAC_revolutionary_romanticist:0 "P.I. Canal Zone"
+ PAC_revolutionary_romanticist_DEF:0 "The Panama International Canal Zone"
+ PAC_revolutionary_romanticist_ADJ:0 "Canal Zone"
+ PAC_ancienist:0 "P.I. Canal Zone"
+ PAC_ancienist_DEF:0 "The Panama International Canal Zone"
+ PAC_ancienist_ADJ:0 "Canal Zone"
+ 
+ 
+ #Parties
+ 
+ PAC_radical_populist_party:0 "Local Militias"
+ PAC_radical_populist_party_long:0 "Local Militant Revolutionaries"
+ PAC_chartist_party:0 ""
+ PAC_chartist_party_long:0 ""
+ PAC_radical_rationalist_party:0 "PICZC-DP"
+ PAC_radical_rationalist_party_long:0 "Panama International Canal Zone Commision (Democratic Progress)"
+ PAC_social_paternalist_party:0 "PICZC-G"
+ PAC_social_paternalist_party_long:0 "Panama International Canal Zone Commision (Growth Wing)"
+ PAC_revolutionary_romanticist_party:0 "PICZC-NE"
+ PAC_revolutionary_romanticist_party_long:0 "Panama International Canal Zone Commision (New Europe)"
+ PAC_ancienist_party:0 ""
+ PAC_ancienist_party_long:0 ""

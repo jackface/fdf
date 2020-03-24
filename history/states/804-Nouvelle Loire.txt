@@ -1,0 +1,18 @@
+state={
+	id=804
+	name="STATE_804"
+	history={
+		owner = LOU
+		buildings = {
+			infrastructure = 2
+		}
+		
+		add_core_of = LOU
+	}
+	provinces={
+		1767 1851 7760 10587
+	}
+	manpower=1023120
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

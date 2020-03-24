@@ -1,0 +1,18 @@
+state={
+	id=801
+	name="STATE_801"
+	history={
+		owner = DEN
+		buildings = {
+			infrastructure = 2
+		}
+		
+		add_core_of = DEN
+	}
+	provinces={
+		 58 190 3179 6055 6152 6155 9083 9095 9134 9175 9178 11026 11058
+	}
+	manpower=71309
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

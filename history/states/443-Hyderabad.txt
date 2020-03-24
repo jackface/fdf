@@ -1,0 +1,22 @@
+
+state={
+	id=443
+	name="STATE_443" # Sind
+	manpower = 3187000
+	
+	state_category = rural
+
+	history={
+		owner = AFG
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = AFG
+
+	}
+
+	provinces={
+		1147 1971 1980 4003 4110 4382 7049 7084 10108 10735 
+	}
+}

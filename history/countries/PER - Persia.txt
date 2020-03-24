@@ -1,0 +1,38 @@
+﻿capital = 266
+
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	gw_artillery = 1
+	early_fighter = 1
+	CAS1 = 1
+}
+
+set_convoys = 10
+set_politics = {
+	ruling_party = radical_rationalist
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	radical_populist = 15
+	chartist = 13
+	radical_rationalist = 30
+	social_paternalist = 31
+	revolutionary_romanticist = 7
+	ancienist = 4
+}
+
+create_country_leader = {
+	name = "Esmail Momtaz od-Dowleh"
+	desc = "POLITICS_ESMAIL_MOMTAZ_OD_DOWLEH_DESC"
+	picture = "Esmail_Momtaz_od_Dowleh.dds"
+	expire = "1965.1.1"
+	ideology = radical_rationalist_ideology
+	traits = {
+		#
+	}
+}

@@ -1,0 +1,37 @@
+﻿l_english:
+ 
+ #Country Name
+ ARG_radical_populist:0 "Republic of Argentina-Patagonia"
+ ARG_radical_populist_DEF:0 "The Republic of Argentina-Patagonia"
+ ARG_radical_populist_ADJ:0 "Argentine-Patagonian"
+ ARG_chartist:0 "Republic of Argentina-Patagonia"
+ ARG_chartist_DEF:0 "The Republic of Argentina-Patagonia"
+ ARG_chartist_ADJ:0 "Argentine-Patagonian"
+ ARG_radical_rationalist:0 "Republic of Argentina-Patagonia"
+ ARG_radical_rationalist_DEF:0 "The Republic of Argentina-Patagonia"
+ ARG_radical_rationalist_ADJ:0 "Argentine-Patagonian"
+ ARG_social_paternalist:0 "Republic of Argentina-Patagonia"
+ ARG_social_paternalist_DEF:0 "The Republic of Argentina-Patagonia"
+ ARG_social_paternalist_ADJ:0 "Argentine-Patagonian"
+ ARG_revolutionary_romanticist:0 "Republic of Argentina-Patagonia"
+ ARG_revolutionary_romanticist_DEF:0 "The Republic of Argentina-Patagonia"
+ ARG_revolutionary_romanticist_ADJ:0 "Argentine-Patagonian"
+ ARG_ancienist:0 "Republic of Argentina-Patagonia"
+ ARG_ancienist_DEF:0 "The Republic of Argentina-Patagonia"
+ ARG_ancienist_ADJ:0 "Argentine-Patagonian"
+ 
+ 
+ #Parties
+ 
+ ARG_radical_populist_party:0 ""
+ ARG_radical_populist_party_long:0 ""
+ ARG_chartist_party:0 ""
+ ARG_chartist_party_long:0 ""
+ ARG_radical_rationalist_party:0 ""
+ ARG_radical_rationalist_party_long:0 ""
+ ARG_social_paternalist_party:0 ""
+ ARG_social_paternalist_party_long:0 ""
+ ARG_revolutionary_romanticist_party:0 ""
+ ARG_revolutionary_romanticist_party_long:0 ""
+ ARG_ancienist_party:0 "Sena Pereira"
+ ARG_ancienist_party_long:0 "House of Sena Pereira"
