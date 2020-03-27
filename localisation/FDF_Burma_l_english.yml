@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ BRM_radical_populist:0 "Kingdom of Burma"
+ BRM_radical_populist_DEF:0 "The Kingdom of Burma"
+ BRM_radical_populist_ADJ:0 "Burmese"
+ BRM_chartist:0 "Kingdom of Burma"
+ BRM_chartist_DEF:0 "The Kingdom of Burma"
+ BRM_chartist_ADJ:0 "Burmese"
+ BRM_radical_rationalist:0 "Kingdom of Burma"
+ BRM_radical_rationalist_DEF:0 "The Kingdom of Burma"
+ BRM_radical_rationalist_ADJ:0 "Burmese"
+ BRM_social_paternalist:0 "Kingdom of Burma"
+ BRM_social_paternalist_DEF:0 "The Kingdom of Burma"
+ BRM_social_paternalist_ADJ:0 "Burmese"
+ BRM_revolutionary_romanticist:0 "Kingdom of Burma"
+ BRM_revolutionary_romanticist_DEF:0 "The Kingdom of Burma"
+ BRM_revolutionary_romanticist_ADJ:0 "Burmese"
+ BRM_ancienist:0 "Kingdom of Burma"
+ BRM_ancienist_DEF:0 "The Kingdom of Burma"
+ BRM_ancienist_ADJ:0 "Burmese"
+ 
+ BRM_BCRB_radical_populist:0 "Crown Realm of Burma"
+ BRM_BCRB_radical_populist_DEF:0 "The Crown Realm of Burma"
+ BRM_BCRB_radical_populist_ADJ:0 "British-Burmese"
+ BRM_BCRB_chartist:0 "Crown Realm of Burma"
+ BRM_BCRB_chartist_DEF:0 "The Crown Realm of Burma"
+ BRM_BCRB_chartist_ADJ:0 "British-Burmese"
+ BRM_BCRB_radical_rationalist:0 "Crown Realm of Burma"
+ BRM_BCRB_radical_rationalist_DEF:0 "The Crown Realm of Burma"
+ BRM_BCRB_radical_rationalist_ADJ:0 "British-Burmese"
+ BRM_BCRB_social_paternalist:0 "Crown Realm of Burma"
+ BRM_BCRB_social_paternalist_DEF:0 "The Crown Realm of Burma"
+ BRM_BCRB_social_paternalist_ADJ:0 "British-Burmese"
+ BRM_BCRB_revolutionary_romanticist:0 "Crown Realm of Burma"
+ BRM_BCRB_revolutionary_romanticist_DEF:0 "The Crown Realm of Burma"
+ BRM_BCRB_revolutionary_romanticist_ADJ:0 "British-Burmese"
+ BRM_BCRB_ancienist:0 "Crown Realm of Burma"
+ BRM_BCRB_ancienist_DEF:0 "The Crown Realm of Burma"
+ BRM_BCRB_ancienist_ADJ:0 "British-Burmese"
+ 
+ 
+ #Parties

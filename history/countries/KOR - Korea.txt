@@ -1,6 +1,5 @@
-﻿capital = 525 #South Korea - Seoul or Busan
+﻿capital = 527 #South Korea - Seoul or Busan
 
-oob = "KOR_1936"
 
 # Starting tech
 set_technology = {
@@ -11,57 +10,25 @@ set_technology = {
 set_convoys = 5
 
 set_politics = {
-	ruling_party = chartist
+	ruling_party = revolutionary_romanticist
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	chartist = 35
-	social_paternalist = 25
-	radical_populist = 30
-	radical_rationalist = 10
+	radical_populist = 15
+	chartist = 13
+	radical_rationalist = 30
+	social_paternalist = 31
+	revolutionary_romanticist = 7
+	ancienist = 4
 }
-
 create_country_leader = {
-	name = "Syngman Rhee"
+	name = "Jo Man-sik"
 	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
+	picture = "Jo_Man_sik.dds"
 	expire = "1965.1.1"
-	ideology = chartist_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Yi Kang"
-	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
-	expire = "1965.1.1"
-	ideology = radical_rationalist_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Kim Il-sung"
-	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
-	expire = "1965.1.1"
-	ideology = radical_populist_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Yi Un"
-	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
-	expire = "1965.1.1"
-	ideology = social_paternalist_ideology
+	ideology = revolutionary_romanticist_ideology
 	traits = {
 		#
 	}

@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ JAP_radical_populist:0 "Empire of Japan"
+ JAP_radical_populist_DEF:0 "The Empire of Japan"
+ JAP_radical_populist_ADJ:0 "Japanese"
+ JAP_chartist:0 "Empire of Japan"
+ JAP_chartist_DEF:0 "The Empire of Japan"
+ JAP_chartist_ADJ:0 "Japanese"
+ JAP_radical_rationalist:0 "Empire of Japan"
+ JAP_radical_rationalist_DEF:0 "The Empire of Japan"
+ JAP_radical_rationalist_ADJ:0 "Japanese"
+ JAP_social_paternalist:0 "Empire of Japan"
+ JAP_social_paternalist_DEF:0 "The Empire of Japan"
+ JAP_social_paternalist_ADJ:0 "Japanese"
+ JAP_revolutionary_romanticist:0 "Empire of Japan"
+ JAP_revolutionary_romanticist_DEF:0 "The Empire of Japan"
+ JAP_revolutionary_romanticist_ADJ:0 "Japanese"
+ JAP_ancienist:0 "Empire of Japan"
+ JAP_ancienist_DEF:0 "The Empire of Japan"
+ JAP_ancienist_ADJ:0 "Japanese"
+ 
+ JAP_DJM_radical_populist:0 "Dutch Japanese Mandate"
+ JAP_DJM_radical_populist_DEF:0 "The Dutch Japanese Mandate"
+ JAP_DJM_radical_populist_ADJ:0 "Dutch-Japanese"
+ JAP_DJM_chartist:0 "Dutch Japanese Mandate"
+ JAP_DJM_chartist_DEF:0 "The Dutch Japanese Mandate"
+ JAP_DJM_chartist_ADJ:0 "Dutch-Japanese"
+ JAP_DJM_radical_rationalist:0 "Dutch Japanese Mandate"
+ JAP_DJM_radical_rationalist_DEF:0 "The Dutch Japanese Mandate"
+ JAP_DJM_radical_rationalist_ADJ:0 "Dutch-Japanese"
+ JAP_DJM_social_paternalist:0 "Dutch Japanese Mandate"
+ JAP_DJM_social_paternalist_DEF:0 "The Dutch Japanese Mandate"
+ JAP_DJM_social_paternalist_ADJ:0 "Dutch-Japanese"
+ JAP_DJM_revolutionary_romanticist:0 "Dutch Japanese Mandate"
+ JAP_DJM_revolutionary_romanticist_DEF:0 "The Dutch Japanese Mandate"
+ JAP_DJM_revolutionary_romanticist_ADJ:0 "Dutch-Japanese"
+ JAP_DJM_ancienist:0 "Dutch Japanese Mandate"
+ JAP_DJM_ancienist_DEF:0 "The Dutch Japanese Mandate"
+ JAP_DJM_ancienist_ADJ:0 "Dutch-Japanese"
+ 
+ 
+ #Parties

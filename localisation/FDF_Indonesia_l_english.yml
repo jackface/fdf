@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ INS_radical_populist:0 "Commonwealth of Nusantra"
+ INS_radical_populist_DEF:0 "The Commonwealth of Nusantra"
+ INS_radical_populist_ADJ:0 "Nusantran"
+ INS_chartist:0 "Commonwealth of Nusantra"
+ INS_chartist_DEF:0 "The Commonwealth of Nusantra"
+ INS_chartist_ADJ:0 "Nusantran"
+ INS_radical_rationalist:0 "Commonwealth of Nusantra"
+ INS_radical_rationalist_DEF:0 "The Commonwealth of Nusantra"
+ INS_radical_rationalist_ADJ:0 "Nusantran"
+ INS_social_paternalist:0 "Commonwealth of Nusantra"
+ INS_social_paternalist_DEF:0 "The Commonwealth of Nusantra"
+ INS_social_paternalist_ADJ:0 "Nusantran"
+ INS_revolutionary_romanticist:0 "Commonwealth of Nusantra"
+ INS_revolutionary_romanticist_DEF:0 "The Commonwealth of Nusantra"
+ INS_revolutionary_romanticist_ADJ:0 "Nusantran"
+ INS_ancienist:0 "Commonwealth of Nusantra"
+ INS_ancienist_DEF:0 "The Commonwealth of Nusantra"
+ INS_ancienist_ADJ:0 "Nusantran"
+ 
+ INS_DEI_radical_populist:0 "Dutch East Indies"
+ INS_DEI_radical_populist_DEF:0 "The Dutch East Indies"
+ INS_DEI_radical_populist_ADJ:0 "Dutch East Indian"
+ INS_DEI_chartist:0 "Dutch East Indies"
+ INS_DEI_chartist_DEF:0 "The Dutch East Indies"
+ INS_DEI_chartist_ADJ:0 "Dutch East Indian"
+ INS_DEI_radical_rationalist:0 "Dutch East Indies"
+ INS_DEI_radical_rationalist_DEF:0 "The Dutch East Indies"
+ INS_DEI_radical_rationalist_ADJ:0 "Dutch East Indian"
+ INS_DEI_social_paternalist:0 "Dutch East Indies"
+ INS_DEI_social_paternalist_DEF:0 "The Dutch East Indies"
+ INS_DEI_social_paternalist_ADJ:0 "Dutch East Indian"
+ INS_DEI_revolutionary_romanticist:0 "Dutch East Indies"
+ INS_DEI_revolutionary_romanticist_DEF:0 "The Dutch East Indies"
+ INS_DEI_revolutionary_romanticist_ADJ:0 "Dutch East Indian"
+ INS_DEI_ancienist:0 "Dutch East Indies"
+ INS_DEI_ancienist_DEF:0 "The Dutch East Indies"
+ INS_DEI_ancienist_ADJ:0 "Dutch East Indian"
+ 
+ 
+ #Parties

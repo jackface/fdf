@@ -264,6 +264,26 @@ BHU = {
 	color = rgb { 214 122 60 }
 	color_ui = rgb { 214 122 60 }
 }
+CHI = {
+	color = rgb { 132 95 129 }
+	color_ui = rgb { 132 95 129 }
+}
+KOR = {
+	color = rgb { 158  130  53 }
+	color_ui = rgb { 158  130  53 }	
+}
+AST = {
+	color = rgb { 29 132 64 }
+	color_ui = rgb { 29 132 64 }
+}
+AFG = {
+	color = rgb { 0 159 51 }
+	color_ui = rgb { 0 159 51 }
+}
+NZL = {
+	color = rgb { 213 213 98 }
+	color_ui = rgb { 213 213 98 }
+}
 LIT = {
 	color = rgb { 219 219 119 }
 	color_ui = rgb { 255 255 155 }
@@ -292,21 +312,9 @@ FIN = {
 	color = rgb { 205 212 228 }
 	color_ui = rgb { 255 255 255 }
 }
-AFG = {
-	color = rgb { 64 160 167 }
-	color_ui = rgb { 83 208 217 }
-}
-AST = {
-	color = rgb { 57 143 97 }
-	color_ui = rgb { 74 186 126 }
-}
 BOL = {
 	color = hsv { 0.1 0.47 0.8 } #255 180 136
 	color_ui = rgb { 255 234 177 }
-}
-CHI = {
-	color = hsv { 0.18 0.6 0.9 } #255 244 190
-	color_ui = hsv { 0.18 0.3 0.9 }
 }
 CHL = {
 	color = rgb { 155 101 107 }
@@ -343,10 +351,6 @@ JAP = {
 NIC = {
 	color = rgb { 146 179 191 }
 	color_ui = rgb { 146 179 191 }
-}
-NZL = {
-	color = rgb { 152 130 191 }
-	color_ui = rgb { 198 169 248 }
 }
 PHI = {
 	color = rgb { 152 130 191 }
@@ -554,10 +558,6 @@ WGR = {
 DDR = {
     color = rgb { 120 150 80 }
     color_ui = rgb { 150 180 120 }
-}
-KOR = {
-	color = rgb { 255  240  195 }
-	color_ui = rgb { 255 248 229 }	
 }
 ISR = {
 	color = rgb { 152  130  191 }

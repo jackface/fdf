@@ -58,6 +58,8 @@ set_politics = {
 	elections_allowed = no
 }
 
+puppet = SIA
+
 set_convoys = 150
 set_stability = 0.5
 

@@ -14,11 +14,6 @@ RAJ_FREE = {
 	color_ui = rgb { 226  135  40 }
 }
 
-INS_HOL = {
-    color = rgb { 203 138 74 }
-    color_ui = rgb { 255 179 96 }
-}
-
 INS_FREE = {
     color = rgb { 40  50  120 }
 	color_ui = rgb { 40  50  120 }
@@ -348,4 +343,41 @@ POR_empire_fascism = {
 POR_empire_neutrality = {
 	color = rgb { 19  83  180 }
 	color_ui = rgb { 19  83  180 }
+}
+
+####Mod
+
+INS_DEI = {
+    color = rgb { 203 138 74 }
+    color_ui = rgb { 255 179 96 }
+}
+
+JAP_DJM = {
+    color = rgb { 203 138 74 }
+    color_ui = rgb { 255 179 96 }
+}
+
+MAL_FB = {
+    color = rgb { 72 97 206 }
+    color_ui = rgb { 72 97 206 }
+}
+
+VIN_FT = {
+    color = rgb { 72 97 206 }
+    color_ui = rgb { 72 97 206 }
+}
+
+YUN_FD = {
+    color = rgb { 72 97 206 }
+    color_ui = rgb { 72 97 206 }
+}
+
+BRM_BCRB = {
+    color = rgb { 161 92 103 }
+    color_ui = rgb { 161 92 103 }
+}
+
+SIA_SIT = {
+    color = rgb { 249 229 90 }
+    color_ui = rgb { 249 229 90 }
 }

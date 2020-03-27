@@ -57,6 +57,9 @@ if = {
 	}
 }
 
+puppet = INS
+puppet = HOL
+
 set_politics = {
 	ruling_party = ancienist
 	last_election = "1933.4.26"

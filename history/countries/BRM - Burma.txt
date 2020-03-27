@@ -9,60 +9,31 @@ set_technology = {
 
 set_convoys = 5
 
-1939.1.1 = {
-	#generic focuses
-	complete_national_focus = army_effort
-	complete_national_focus = equipment_effort
-	complete_national_focus = motorization_effort
-	complete_national_focus = aviation_effort
-	complete_national_focus = naval_effort
-	complete_national_focus = flexible_navy
-	complete_national_focus = industrial_effort
-	complete_national_focus = construction_effort
-	complete_national_focus = production_effort
-	
-	set_technology = {
 
-		#doctrines
-		grand_battle_plan = 1
-		trench_warfare = 1
-
-		#electronics
-		electronic_mechanical_engineering = 1
-		radio = 1
-		radio_detection = 1
-		mechanical_computing = 1
-
-		#industry
-		basic_machine_tools = 1
-		improved_machine_tools = 1
-		advanced_machine_tools = 1
-		fuel_silos = 1
-		construction1 = 1
-		construction2 = 1
-		dispersed_industry = 1
-		dispersed_industry2 = 1
-	}
-}
 set_politics = {
-	ruling_party = chartist
+	ruling_party = social_paternalist
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	chartist = 72
-	social_paternalist = 2
-	radical_populist = 14
-	radical_rationalist = 12
+	radical_populist = 15
+	chartist = 13
+	radical_rationalist = 30
+	social_paternalist = 31
+	revolutionary_romanticist = 7
+	ancienist = 4
 }
-#create_country_leader = {
-#	
-#	name = "Jonas Lote"
-#	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_2.dds"
-#	expire = "1965.1.1"
-#	ideology = radical_rationalist_ideology
-#	traits = {
-#		#
-#	}
-#}
+
+set_cosmetic_tag = BRM_BCRB
+
+create_country_leader = {
+	name = "Sir Benjamin Blythe"
+	desc = "POLITICS_SIR_BENJAMIN_BLYTHE_DESC"
+	picture = "Sir_Benjamin_Blythe.dds"
+	expire = "1965.1.1"
+	ideology = social_paternalist_ideology
+	traits = {
+		
+	}
+}

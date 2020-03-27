@@ -1,6 +1,5 @@
 ﻿capital = 671 #Hanoi
 
-oob = "VIN_1936"
 
 set_research_slots = 3
 
@@ -65,64 +64,31 @@ if = {
 	}
 }
 
+set_cosmetic_tag = VIN_FT
+
 set_politics = {
-	ruling_party = chartist
+	ruling_party = social_paternalist
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = no
 }
 set_popularities = {
-	chartist = 35
-	social_paternalist = 15
 	radical_populist = 15
-	radical_rationalist = 35
+	chartist = 13
+	radical_rationalist = 30
+	social_paternalist = 31
+	revolutionary_romanticist = 7
+	ancienist = 4
 }
 
-#NOTICE# please watch out for spelling, im using Vietnamese names as they spell them, game might not support these characters!
 
 create_country_leader = {
-	name = "Phan Bôi Châu" 
+	name = "Auguste Isaac" 
 	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_warlord2.dds"
+	picture = "Auguste_Isaac.dds"
 	expire = "1953.3.1"
 	ideology = social_paternalist_ideology 
 	traits = {
 		
 	}
 }
-
-create_country_leader = {
-	name = "Ho Chí Minh" 
-	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_radical_populist.dds"
-	expire = "1953.3.1"
-	ideology = radical_populist_ideology
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Ngô Đình Diêm"
-	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
-	expire = "1953.3.1"
-	ideology = chartist_ideology
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Nguyen Tuong Tam"
-	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
-	expire = "1953.3.1"
-	ideology = radical_rationalist_ideology
-	traits = {
-		
-	}
-}
-
-
-
