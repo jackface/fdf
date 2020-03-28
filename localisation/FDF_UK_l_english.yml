@@ -22,3 +22,16 @@
  
  
  #Parties
+ 
+ ENG_radical_populist_party:0 "Cambridge"
+ ENG_radical_populist_party_long:0 "Cambridge Society"
+ ENG_chartist_party:0 "RCC"
+ ENG_chartist_party_long:0 "Radical Chartist Congress"
+ ENG_radical_rationalist_party:0 "WPA"
+ ENG_radical_rationalist_party_long:0 "Whig-Peelite Alliance"
+ ENG_social_paternalist_party:0 "Anglicans"
+ ENG_social_paternalist_party_long:0 "Anglican Alliance"
+ ENG_revolutionary_romanticist_party:0 "AFB"
+ ENG_revolutionary_romanticist_party_long:0 "Alliance For Britannia"
+ ENG_ancienist_party:0 "Royals"
+ ENG_ancienist_party_long:0 "House of Saxe-Coburg and Gotha"

@@ -372,6 +372,11 @@ YUN_FD = {
     color_ui = rgb { 72 97 206 }
 }
 
+GXC_FCM = {
+    color = rgb { 72 97 206 }
+    color_ui = rgb { 72 97 206 }
+}
+
 BRM_BCRB = {
     color = rgb { 161 92 103 }
     color_ui = rgb { 161 92 103 }

@@ -79,6 +79,7 @@ set_convoys = 300
 puppet = MAL
 puppet = VIN
 puppet = YUN
+puppet = GXC
 
 set_politics = {
 	ruling_party = social_paternalist

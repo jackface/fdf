@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ GXC_radical_populist:0 "State of Canton-Kwanghsi"
+ GXC_radical_populist_DEF:0 "The State of Canton-Kwanghsi"
+ GXC_radical_populist_ADJ:0 "Cantonese-Kwanghsi"
+ GXC_chartist:0 "State of Canton-Kwanghsi"
+ GXC_chartist_DEF:0 "The State of Canton-Kwanghsi"
+ GXC_chartist_ADJ:0 "Cantonese-Kwanghsi"
+ GXC_radical_rationalist:0 "State of Canton-Kwanghsi"
+ GXC_radical_rationalist_DEF:0 "The State of Canton-Kwanghsi"
+ GXC_radical_rationalist_ADJ:0 "Cantonese-Kwanghsi"
+ GXC_social_paternalist:0 "State of Canton-Kwanghsi"
+ GXC_social_paternalist_DEF:0 "The State of Canton-Kwanghsi"
+ GXC_social_paternalist_ADJ:0 "Cantonese-Kwanghsi"
+ GXC_revolutionary_romanticist:0 "State of Canton-Kwanghsi"
+ GXC_revolutionary_romanticist_DEF:0 "The State of Canton-Kwanghsi"
+ GXC_revolutionary_romanticist_ADJ:0 "Cantonese-Kwanghsi"
+ GXC_ancienist:0 "State of Canton-Kwanghsi"
+ GXC_ancienist_DEF:0 "The State of Canton-Kwanghsi"
+ GXC_ancienist_ADJ:0 "Cantonese-Kwanghsi"
+ 
+ GXC_FCM_radical_populist:0 "French Chinese Mandate"
+ GXC_FCM_radical_populist_DEF:0 "The French Chinese Mandate"
+ GXC_FCM_radical_populist_ADJ:0 "French-Chinese"
+ GXC_FCM_chartist:0 "French Chinese Mandate"
+ GXC_FCM_chartist_DEF:0 "The French Chinese Mandate"
+ GXC_FCM_chartist_ADJ:0 "French-Chinese"
+ GXC_FCM_radical_rationalist:0 "French Chinese Mandate"
+ GXC_FCM_radical_rationalist_DEF:0 "The French Chinese Mandate"
+ GXC_FCM_radical_rationalist_ADJ:0 "French-Chinese"
+ GXC_FCM_social_paternalist:0 "French Chinese Mandate"
+ GXC_FCM_social_paternalist_DEF:0 "The French Chinese Mandate"
+ GXC_FCM_social_paternalist_ADJ:0 "French-Chinese"
+ GXC_FCM_revolutionary_romanticist:0 "French Chinese Mandate"
+ GXC_FCM_revolutionary_romanticist_DEF:0 "The French Chinese Mandate"
+ GXC_FCM_revolutionary_romanticist_ADJ:0 "French-Chinese"
+ GXC_FCM_ancienist:0 "French Chinese Mandate"
+ GXC_FCM_ancienist_DEF:0 "The French Chinese Mandate"
+ GXC_FCM_ancienist_ADJ:0 "French-Chinese"
+ 
+ 
+ #Parties
