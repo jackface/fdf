@@ -7,7 +7,7 @@ state=
 	state_category = large_town
 	history=
 	{
-		owner = POR
+		owner = PHI
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1

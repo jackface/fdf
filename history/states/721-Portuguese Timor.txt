@@ -7,7 +7,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = POR
+		owner = PHI
 		buildings = {
 			infrastructure = 3
 			12190 ={

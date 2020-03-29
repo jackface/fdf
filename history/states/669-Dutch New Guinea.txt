@@ -6,7 +6,7 @@ state={
 	state_category = pastoral
 
 	history= {
-		owner = SPR
+		owner = PAP
 		victory_points = {
 			12371 1 
 		}

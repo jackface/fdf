@@ -54,7 +54,7 @@ set_popularities = {
 	ancienist = 4
 }
 
-
+puppet = PHI
 
 set_convoys = 100
 set_stability = 0.75

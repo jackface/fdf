@@ -386,3 +386,18 @@ SIA_SIT = {
     color = rgb { 249 229 90 }
     color_ui = rgb { 249 229 90 }
 }
+
+PAP_SPT = {
+    color = rgb { 249 229 90 }
+    color_ui = rgb { 249 229 90 }
+}
+
+PHI_PPC = {
+    color = rgb { 90 114 152 }
+    color_ui = rgb { 90 114 152 }
+}
+
+SOL_DPT = {
+    color = rgb { 191 127 119 }
+    color_ui = rgb { 191 127 119 }
+}

@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ SOL_radical_populist:0 "State of The Solomon Islands"
+ SOL_radical_populist_DEF:0 "The State of The Solomon Islands"
+ SOL_radical_populist_ADJ:0 "Solomon Islander"
+ SOL_chartist:0 "State of The Solomon Islands"
+ SOL_chartist_DEF:0 "The State of The Solomon Islands"
+ SOL_chartist_ADJ:0 "Solomon Islander"
+ SOL_radical_rationalist:0 "State of The Solomon Islands"
+ SOL_radical_rationalist_DEF:0 "The State of The Solomon Islands"
+ SOL_radical_rationalist_ADJ:0 "Solomon Islander"
+ SOL_social_paternalist:0 "State of The Solomon Islands"
+ SOL_social_paternalist_DEF:0 "The State of The Solomon Islands"
+ SOL_social_paternalist_ADJ:0 "Solomon Islander"
+ SOL_revolutionary_romanticist:0 "State of The Solomon Islands"
+ SOL_revolutionary_romanticist_DEF:0 "The State of The Solomon Islands"
+ SOL_revolutionary_romanticist_ADJ:0 "Solomon Islander"
+ SOL_ancienist:0 "State of The Solomon Islands"
+ SOL_ancienist_DEF:0 "The State of The Solomon Islands"
+ SOL_ancienist_ADJ:0 "Solomon Islander"
+ 
+ SOL_DPT_radical_populist:0 "Danish Pacific Territory"
+ SOL_DPT_radical_populist_DEF:0 "The Danish Pacific Territory"
+ SOL_DPT_radical_populist_ADJ:0 "Danish-Pacificer"
+ SOL_DPT_chartist:0 "Danish Pacific Territory"
+ SOL_DPT_chartist_DEF:0 "The Danish Pacific Territory"
+ SOL_DPT_chartist_ADJ:0 "Danish-Pacificer"
+ SOL_DPT_radical_rationalist:0 "Danish Pacific Territory"
+ SOL_DPT_radical_rationalist_DEF:0 "The Danish Pacific Territory"
+ SOL_DPT_radical_rationalist_ADJ:0 "Danish-Pacificer"
+ SOL_DPT_social_paternalist:0 "Danish Pacific Territory"
+ SOL_DPT_social_paternalist_DEF:0 "The Danish Pacific Territory"
+ SOL_DPT_social_paternalist_ADJ:0 "Danish-Pacificer"
+ SOL_DPT_revolutionary_romanticist:0 "Danish Pacific Territory"
+ SOL_DPT_revolutionary_romanticist_DEF:0 "The Danish Pacific Territory"
+ SOL_DPT_revolutionary_romanticist_ADJ:0 "Danish-Pacificer"
+ SOL_DPT_ancienist:0 "Danish Pacific Territory"
+ SOL_DPT_ancienist_DEF:0 "The Danish Pacific Territory"
+ SOL_DPT_ancienist_ADJ:0 "Danish-Pacificer"
+ 
+ 
+ #Parties
