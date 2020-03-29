@@ -22,3 +22,16 @@
  
  
  #Parties
+ 
+ IRE_radical_populist_party:0 "The Workers Party"
+ IRE_radical_populist_party_long:0 "The Workers Party of Ireland"
+ IRE_chartist_party:0 "Toilers Associations"
+ IRE_chartist_party_long:0 "The Toilers Associations"
+ IRE_radical_rationalist_party:0 "Republican Coalition - L"
+ IRE_radical_rationalist_party_long:0 "The Republican Coalition - Left"
+ IRE_social_paternalist_party:0 "Republican Coalition - R"
+ IRE_social_paternalist_party_long:0 "The Republican Coalition - Right"
+ IRE_revolutionary_romanticist_party:0 "MUC"
+ IRE_revolutionary_romanticist_party_long:0 "Movement For Unionist Christians"
+ IRE_ancienist_party:0 "Monarchists"
+ IRE_ancienist_party_long:0 "League for the restoration of the High King"
