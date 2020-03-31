@@ -3047,6 +3047,103 @@ focus_tree = {
 		completion_reward = {
 		}
 	}
+	
+	focus = {
+		id = cult_of_personality
+		icon = GFX_goal_generic_demand_territory
+		x = 12
+		y = 5
+		cost = 10
+	
+		prerequisite = {
+			focus = the_laws_of_man
+			focus = divine_law
+		}
+		
+		available = {
+			has_government = ancienist
+		}
+	
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		relative_position_id = political_evolution
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	
+	focus = {
+		id = this_land_is_my_land
+		icon = GFX_goal_generic_demand_territory
+		x = 11
+		y = 6
+		cost = 10
+	
+		prerequisite = {
+			focus = cult_of_personality
+		}
+		
+		available = {
+			has_government = ancienist
+		}
+	
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		relative_position_id = political_evolution
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	
+	focus = {
+		id = the_king_is_the_courts
+		icon = GFX_goal_generic_demand_territory
+		x = 13
+		y = 6
+		cost = 10
+	
+		prerequisite = {
+			focus = cult_of_personality
+		}
+		
+		available = {
+			has_government = ancienist
+		}
+	
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		relative_position_id = political_evolution
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	
+	focus = {
+		id = all_hail_the_king
+		icon = GFX_goal_generic_demand_territory
+		x = 12
+		y = 7
+		cost = 10
+	
+		prerequisite = {
+			focus = this_land_is_my_land
+		}
+		
+		prerequisite = {
+			focus = the_king_is_the_courts
+		}
+		
+		available = {
+			has_government = ancienist
+		}
+	
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		relative_position_id = political_evolution
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
 
 
 }
