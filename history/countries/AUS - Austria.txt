@@ -31,6 +31,7 @@ set_popularities = {
 
 puppet = GAL
 puppet = CRO
+puppet = PNG
 
 create_country_leader = {
 	name = "H.I.M. Kaiser Georg I"

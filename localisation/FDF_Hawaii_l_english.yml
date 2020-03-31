@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ HAW_radical_populist:0 "Kingdom of Hawaii"
+ HAW_radical_populist_DEF:0 "The Kingdom of Hawaii"
+ HAW_radical_populist_ADJ:0 "Hawaiian"
+ HAW_chartist:0 "Kingdom of Hawaii"
+ HAW_chartist_DEF:0 "The Kingdom of Hawaii"
+ HAW_chartist_ADJ:0 "Hawaiian"
+ HAW_radical_rationalist:0 "Kingdom of Hawaii"
+ HAW_radical_rationalist_DEF:0 "The Kingdom of Hawaii"
+ HAW_radical_rationalist_ADJ:0 "Hawaiian"
+ HAW_social_paternalist:0 "Kingdom of Hawaii"
+ HAW_social_paternalist_DEF:0 "The Kingdom of Hawaii"
+ HAW_social_paternalist_ADJ:0 "Hawaiian"
+ HAW_revolutionary_romanticist:0 "Kingdom of Hawaii"
+ HAW_revolutionary_romanticist_DEF:0 "The Kingdom of Hawaii"
+ HAW_revolutionary_romanticist_ADJ:0 "Hawaiian"
+ HAW_ancienist:0 "Kingdom of Hawaii"
+ HAW_ancienist_DEF:0 "The Kingdom of Hawaii"
+ HAW_ancienist_ADJ:0 "Hawaiian"
+ 
+ HAW_FP_radical_populist:0 "French Pacific"
+ HAW_FP_radical_populist_DEF:0 "The French Pacific"
+ HAW_FP_radical_populist_ADJ:0 "French-Pacificer"
+ HAW_FP_chartist:0 "French Pacific"
+ HAW_FP_chartist_DEF:0 "The French Pacific"
+ HAW_FP_chartist_ADJ:0 "French-Pacificer"
+ HAW_FP_radical_rationalist:0 "French Pacific"
+ HAW_FP_radical_rationalist_DEF:0 "The French Pacific"
+ HAW_FP_radical_rationalist_ADJ:0 "French-Pacificer"
+ HAW_FP_social_paternalist:0 "French Pacific"
+ HAW_FP_social_paternalist_DEF:0 "The French Pacific"
+ HAW_FP_social_paternalist_ADJ:0 "French-Pacificer"
+ HAW_FP_revolutionary_romanticist:0 "French Pacific"
+ HAW_FP_revolutionary_romanticist_DEF:0 "The French Pacific"
+ HAW_FP_revolutionary_romanticist_ADJ:0 "French-Pacificer"
+ HAW_FP_ancienist:0 "French Pacific"
+ HAW_FP_ancienist_DEF:0 "The French Pacific"
+ HAW_FP_ancienist_ADJ:0 "French-Pacificer"
+ 
+ 
+ #Parties

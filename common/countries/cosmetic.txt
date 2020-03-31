@@ -377,6 +377,11 @@ GXC_FCM = {
     color_ui = rgb { 72 97 206 }
 }
 
+HAW_FP = {
+    color = rgb { 72 97 206 }
+    color_ui = rgb { 72 97 206 }
+}
+
 BRM_BCRB = {
     color = rgb { 161 92 103 }
     color_ui = rgb { 161 92 103 }
@@ -390,6 +395,11 @@ SIA_SIT = {
 PAP_SPT = {
     color = rgb { 249 229 90 }
     color_ui = rgb { 249 229 90 }
+}
+
+PNG_GNG = {
+    color = rgb { 135 165 165 }
+    color_ui = rgb { 135 165 165 }
 }
 
 PHI_PPC = {

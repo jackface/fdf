@@ -529,8 +529,10 @@ guiTypes = {
 		iconType = {
 			name = "rules"
 			spriteType = "GFX_rules_sum_icon"
-			position = { x = 420 y = 252 }
+			position = { x = 785 y = 10 }
 		}
+		
+		#785x10
 
 		buttonType = {
 			name = "manage_occupied_button"
