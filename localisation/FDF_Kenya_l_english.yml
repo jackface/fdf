@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ KEN_radical_populist:0 "Republic of Kegnia-Oesthus"
+ KEN_radical_populist_DEF:0 "The Republic of Kegnia-Oesthus"
+ KEN_radical_populist_ADJ:0 "Kegnia-Oesthusian"
+ KEN_chartist:0 "Republic of Kegnia-Oesthus"
+ KEN_chartist_DEF:0 "The Republic of Kegnia-Oesthus"
+ KEN_chartist_ADJ:0 "Kegnia-Oesthusian"
+ KEN_radical_rationalist:0 "Republic of Kegnia-Oesthus"
+ KEN_radical_rationalist_DEF:0 "The Republic of Kegnia-Oesthus"
+ KEN_radical_rationalist_ADJ:0 "Kegnia-Oesthusian"
+ KEN_social_paternalist:0 "Republic of Kegnia-Oesthus"
+ KEN_social_paternalist_DEF:0 "The Republic of Kegnia-Oesthus"
+ KEN_social_paternalist_ADJ:0 "Kegnia-Oesthusian"
+ KEN_revolutionary_romanticist:0 "Republic of Kegnia-Oesthus"
+ KEN_revolutionary_romanticist_DEF:0 "The Republic of Kegnia-Oesthus"
+ KEN_revolutionary_romanticist_ADJ:0 "Kegnia-Oesthusian"
+ KEN_ancienist:0 "Republic of Kegnia-Oesthus"
+ KEN_ancienist_DEF:0 "The Republic of Kegnia-Oesthus"
+ KEN_ancienist_ADJ:0 "Kegnia-Oesthusian"
+ 
+ KEN_DOC_radical_populist:0 "Danish Oesthus Colony"
+ KEN_DOC_radical_populist_DEF:0 "The Danish Oesthus Colony"
+ KEN_DOC_radical_populist_ADJ:0 "Danish-Oesthusian"
+ KEN_DOC_chartist:0 "Danish Oesthus Colony"
+ KEN_DOC_chartist_DEF:0 "The Danish Oesthus Colony"
+ KEN_DOC_chartist_ADJ:0 "Danish-Oesthusian"
+ KEN_DOC_radical_rationalist:0 "Danish Oesthus Colony"
+ KEN_DOC_radical_rationalist_DEF:0 "The Danish Oesthus Colony"
+ KEN_DOC_radical_rationalist_ADJ:0 "Danish-Oesthusian"
+ KEN_DOC_social_paternalist:0 "Danish Oesthus Colony"
+ KEN_DOC_social_paternalist_DEF:0 "The Danish Oesthus Colony"
+ KEN_DOC_social_paternalist_ADJ:0 "Danish-Oesthusian"
+ KEN_DOC_revolutionary_romanticist:0 "Danish Oesthus Colony"
+ KEN_DOC_revolutionary_romanticist_DEF:0 "The Danish Oesthus Colony"
+ KEN_DOC_revolutionary_romanticist_ADJ:0 "Danish-Oesthusian"
+ KEN_DOC_ancienist:0 "Danish Oesthus Colony"
+ KEN_DOC_ancienist_DEF:0 "The Danish Oesthus Colony"
+ KEN_DOC_ancienist_ADJ:0 "Danish-Oesthusian"
+ 
+ 
+ #Parties

@@ -382,6 +382,11 @@ HAW_FP = {
     color_ui = rgb { 72 97 206 }
 }
 
+PAK_FIS = {
+    color = rgb { 72 97 206 }
+    color_ui = rgb { 72 97 206 }
+}
+
 BRM_BCRB = {
     color = rgb { 161 92 103 }
     color_ui = rgb { 161 92 103 }
@@ -397,7 +402,17 @@ PAP_SPT = {
     color_ui = rgb { 249 229 90 }
 }
 
+SOM_SRST = {
+    color = rgb { 249 229 90 }
+    color_ui = rgb { 249 229 90 }
+}
+
 PNG_GNG = {
+    color = rgb { 135 165 165 }
+    color_ui = rgb { 135 165 165 }
+}
+
+TZN_GEAT = {
     color = rgb { 135 165 165 }
     color_ui = rgb { 135 165 165 }
 }
@@ -407,7 +422,27 @@ PHI_PPC = {
     color_ui = rgb { 90 114 152 }
 }
 
+ETH_PJC = {
+    color = rgb { 90 114 152 }
+    color_ui = rgb { 90 114 152 }
+}
+
+RAJ_PIC = {
+    color = rgb { 90 114 152 }
+    color_ui = rgb { 90 114 152 }
+}
+
 SOL_DPT = {
+    color = rgb { 191 127 119 }
+    color_ui = rgb { 191 127 119 }
+}
+
+BAN_DBT = {
+    color = rgb { 191 127 119 }
+    color_ui = rgb { 191 127 119 }
+}
+
+KEN_DOC = {
     color = rgb { 191 127 119 }
     color_ui = rgb { 191 127 119 }
 }

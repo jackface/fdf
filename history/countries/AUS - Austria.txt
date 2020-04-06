@@ -13,6 +13,11 @@ set_technology = {
 	early_fighter = 1
 }
 
+puppet = GAL
+puppet = CRO
+puppet = PNG
+puppet = TZN
+
 set_politics = {
 	ruling_party = ancienist
 	last_election = "1930.11.9"
@@ -28,10 +33,6 @@ set_popularities = {
 	revolutionary_romanticist = 17
 	ancienist = 19
 }
-
-puppet = GAL
-puppet = CRO
-puppet = PNG
 
 create_country_leader = {
 	name = "H.I.M. Kaiser Georg I"

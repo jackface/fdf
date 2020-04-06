@@ -1730,7 +1730,7 @@ focus_tree = {
 
 	focus = {
 		id = political_evolution
-		icon = GFX_goal_generic_demand_territory
+		icon = GFX_goal_support_democracy
 		x = 29
 		y = 0
 		cost = 10
@@ -1747,7 +1747,7 @@ focus_tree = {
 
 	focus = {
 		id = revolutionary_thought
-		icon = GFX_goal_generic_demand_territory
+		icon = GFX_goal_support_fascism
 		x = -7
 		y = 1
 		cost = 10
@@ -1777,7 +1777,7 @@ focus_tree = {
 	##Chartists 
 	focus = {
 		id = of_the_people #Chartist
-		icon = GFX_goal_generic_demand_territory
+		icon = GFX_goal_generic_dangerous_deal
 		x = -11
 		y = 2
 		cost = 10

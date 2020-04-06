@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ PAK_radical_populist:0 "Pakistani Republic"
+ PAK_radical_populist_DEF:0 "The Pakistani Republic"
+ PAK_radical_populist_ADJ:0 "Pakistani"
+ PAK_chartist:0 "Pakistani Republic"
+ PAK_chartist_DEF:0 "The Pakistani Republic"
+ PAK_chartist_ADJ:0 "Pakistani"
+ PAK_radical_rationalist:0 "Pakistani Republic"
+ PAK_radical_rationalist_DEF:0 "The Pakistani Republic"
+ PAK_radical_rationalist_ADJ:0 "Pakistani"
+ PAK_social_paternalist:0 "Pakistani Republic"
+ PAK_social_paternalist_DEF:0 "The Pakistani Republic"
+ PAK_social_paternalist_ADJ:0 "Pakistani"
+ PAK_revolutionary_romanticist:0 "Pakistani Republic"
+ PAK_revolutionary_romanticist_DEF:0 "The Pakistani Republic"
+ PAK_revolutionary_romanticist_ADJ:0 "Pakistani"
+ PAK_ancienist:0 "Pakistani Republic"
+ PAK_ancienist_DEF:0 "The Pakistani Republic"
+ PAK_ancienist_ADJ:0 "Pakistani"
+ 
+ PAK_FIS_radical_populist:0 "French Indian State"
+ PAK_FIS_radical_populist_DEF:0 "The French Indian State"
+ PAK_FIS_radical_populist_ADJ:0 "French-Indian"
+ PAK_FIS_chartist:0 "French Indian State"
+ PAK_FIS_chartist_DEF:0 "The French Indian State"
+ PAK_FIS_chartist_ADJ:0 "French-Indian"
+ PAK_FIS_radical_rationalist:0 "French Indian State"
+ PAK_FIS_radical_rationalist_DEF:0 "The French Indian State"
+ PAK_FIS_radical_rationalist_ADJ:0 "French-Indian"
+ PAK_FIS_social_paternalist:0 "French Indian State"
+ PAK_FIS_social_paternalist_DEF:0 "The French Indian State"
+ PAK_FIS_social_paternalist_ADJ:0 "French-Indian"
+ PAK_FIS_revolutionary_romanticist:0 "French Indian State"
+ PAK_FIS_revolutionary_romanticist_DEF:0 "The French Indian State"
+ PAK_FIS_revolutionary_romanticist_ADJ:0 "French-Indian"
+ PAK_FIS_ancienist:0 "French Indian State"
+ PAK_FIS_ancienist_DEF:0 "The French Indian State"
+ PAK_FIS_ancienist_ADJ:0 "French-Indian"
+ 
+ 
+ #Parties

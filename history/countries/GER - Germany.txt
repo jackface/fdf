@@ -108,6 +108,15 @@ set_popularities = {
 	ancienist = 4
 }
 
+create_country_leader = {
+	name = "Karl Liebknecht"
+	desc = "POLITICS_KARL_LIEBKNECHT_DESC"
+	picture = "Karl_Liebknecht.dds"
+	expire = "1965.1.1"
+	ideology = radical_populist_ideology
+	traits = {
+	}
+}
 
 create_country_leader = {
 	name = "Max von Baden"
@@ -115,6 +124,16 @@ create_country_leader = {
 	picture = "Max_von_Baden.dds"
 	expire = "1965.1.1"
 	ideology = social_paternalist_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Karl von Einem"
+	desc = "POLITICS_KARL_VON_EINEM_DESC"
+	picture = "Karl_von_Einem.dds"
+	expire = "1965.1.1"
+	ideology = revolutionary_romanticist_ideology
 	traits = {
 	}
 }

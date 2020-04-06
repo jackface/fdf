@@ -1,4 +1,4 @@
-﻿capital = 559
+﻿capital = 659
 
 # Starting tech
 set_technology = {
@@ -7,51 +7,7 @@ set_technology = {
 
 set_convoys = 10
 
-1939.1.1 = {
-	
-	#generic focuses
-	complete_national_focus = army_effort
-	complete_national_focus = equipment_effort
-	complete_national_focus = motorization_effort
-	complete_national_focus = aviation_effort
-	complete_national_focus = naval_effort
-	complete_national_focus = large_navy
-	complete_national_focus = industrial_effort
-	complete_national_focus = construction_effort
-	complete_national_focus = production_effort
-	
-	set_technology = {
-		tech_support = 1
-		tech_recon = 1
-		support_weapons = 1
-		gw_artillery = 1
-
-		#doctrines
-		air_superiority = 1
-		grand_battle_plan = 1
-		trench_warfare = 1
-		fleet_in_being = 1
-		battlefleet_concentration = 1
-		convoy_sailing = 1
-
-		#electronics
-		electronic_mechanical_engineering = 1
-		radio = 1
-		radio_detection = 1
-		mechanical_computing = 1
-		computing_machine = 1
-
-		#industry
-		basic_machine_tools = 1
-		improved_machine_tools = 1
-		advanced_machine_tools = 1
-		fuel_silos = 1
-		construction1 = 1
-		construction2 = 1
-		dispersed_industry = 1
-		dispersed_industry2 = 1
-	}
-}
+set_cosmetic_tag = SOM_SRST
 
 set_politics = {
 	ruling_party = radical_rationalist
@@ -59,9 +15,22 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
 set_popularities = {
-	chartist = 25
-	social_paternalist = 20
-	radical_populist = 5
-	radical_rationalist = 50
+	radical_populist = 15
+	chartist = 13
+	radical_rationalist = 30
+	social_paternalist = 31
+	revolutionary_romanticist = 7
+	ancienist = 4
+}
+
+create_country_leader = {
+	name = "Manuel Azaña"
+	desc = "POLITICS_MANUEL_AZANA_DESC"
+	picture = "Manuel_Azana.dds"
+	expire = "1965.1.1"
+	ideology = radical_rationalist_ideology
+	traits = {
+	}
 }

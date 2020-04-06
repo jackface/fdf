@@ -5,7 +5,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = AUS
+		owner = TZN
 		victory_points = {
 			9962 1
 		}

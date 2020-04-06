@@ -41,6 +41,8 @@ if = {
 }
 
 puppet = SOL
+puppet = BAN
+puppet = KEN
 
 set_politics = {
 	ruling_party = radical_rationalist

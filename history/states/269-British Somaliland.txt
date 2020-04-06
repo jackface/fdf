@@ -13,7 +13,7 @@ state=
 		victory_points = { 
 			5068 1
 		}
-		owner = SPR
+		owner = SOM
 		buildings = {
 			infrastructure = 3
 			10833 = {

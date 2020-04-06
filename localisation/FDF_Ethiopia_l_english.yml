@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ ETH_radical_populist:0 "Kingdom of Ethiopia"
+ ETH_radical_populist_DEF:0 "The Kingdom of Ethiopia"
+ ETH_radical_populist_ADJ:0 "Ethiopian"
+ ETH_chartist:0 "Kingdom of Ethiopia"
+ ETH_chartist_DEF:0 "The Kingdom of Ethiopia"
+ ETH_chartist_ADJ:0 "Ethiopian"
+ ETH_radical_rationalist:0 "Kingdom of Ethiopia"
+ ETH_radical_rationalist_DEF:0 "The Kingdom of Ethiopia"
+ ETH_radical_rationalist_ADJ:0 "Ethiopian"
+ ETH_social_paternalist:0 "Kingdom of Ethiopia"
+ ETH_social_paternalist_DEF:0 "The Kingdom of Ethiopia"
+ ETH_social_paternalist_ADJ:0 "Ethiopian"
+ ETH_revolutionary_romanticist:0 "Kingdom of Ethiopia"
+ ETH_revolutionary_romanticist_DEF:0 "The Kingdom of Ethiopia"
+ ETH_revolutionary_romanticist_ADJ:0 "Ethiopian"
+ ETH_ancienist:0 "Kingdom of Ethiopia"
+ ETH_ancienist_DEF:0 "The Kingdom of Ethiopia"
+ ETH_ancienist_ADJ:0 "Ethiopian"
+ 
+ ETH_PJC_radical_populist:0 "Portuguese Jubba Colony"
+ ETH_PJC_radical_populist_DEF:0 "The Portuguese Jubba Colony"
+ ETH_PJC_radical_populist_ADJ:0 "Jubbavian"
+ ETH_PJC_chartist:0 "Portuguese Jubba Colony"
+ ETH_PJC_chartist_DEF:0 "The Portuguese Jubba Colony"
+ ETH_PJC_chartist_ADJ:0 "Jubbavian"
+ ETH_PJC_radical_rationalist:0 "Portuguese Jubba Colony"
+ ETH_PJC_radical_rationalist_DEF:0 "The Portuguese Jubba Colony"
+ ETH_PJC_radical_rationalist_ADJ:0 "Jubbavian"
+ ETH_PJC_social_paternalist:0 "Portuguese Jubba Colony"
+ ETH_PJC_social_paternalist_DEF:0 "The Portuguese Jubba Colony"
+ ETH_PJC_social_paternalist_ADJ:0 "Jubbavian"
+ ETH_PJC_revolutionary_romanticist:0 "Portuguese Jubba Colony"
+ ETH_PJC_revolutionary_romanticist_DEF:0 "The Portuguese Jubba Colony"
+ ETH_PJC_revolutionary_romanticist_ADJ:0 "Jubbavian"
+ ETH_PJC_ancienist:0 "Portuguese Jubba Colony"
+ ETH_PJC_ancienist_DEF:0 "The Portuguese Jubba Colony"
+ ETH_PJC_ancienist_ADJ:0 "Jubbavian"
+ 
+ 
+ #Parties

@@ -60,6 +60,7 @@ set_politics = {
 
 puppet = SIA
 puppet = PAP
+puppet = SOM
 
 set_convoys = 150
 set_stability = 0.5

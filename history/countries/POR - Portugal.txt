@@ -55,6 +55,8 @@ set_popularities = {
 }
 
 puppet = PHI
+puppet = RAJ
+puppet = ETH
 
 set_convoys = 100
 set_stability = 0.75

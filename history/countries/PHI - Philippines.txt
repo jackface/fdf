@@ -16,7 +16,7 @@ set_convoys = 5
 
 
 set_politics = {
-	ruling_party = social_paternalist
+	ruling_party = radical_rationalist
 	last_election = "1935.9.15"
 	election_frequency = 72
 	elections_allowed = no
@@ -37,7 +37,7 @@ create_country_leader = {
 	desc = "POLITICS_AUGUSTO_TIAGO_DESC"
 	picture = "Augusto_Tiago.dds"
 	expire = "1965.1.1"
-	ideology = social_paternalist_ideology
+	ideology = radical_rationalist_ideology
 	traits = {
 		#
 	}

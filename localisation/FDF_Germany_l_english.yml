@@ -22,3 +22,16 @@
  
  
  #Parties
+ 
+ GER_radical_populist_party:0 "KAA"
+ GER_radical_populist_party_long:0 "Kommunistische Arbeiterassoziation - Communist Workers' Association"
+ GER_chartist_party:0 "DAN"
+ GER_chartist_party_long:0 "Demokratische Arbeiterverein Norddeutschlands - Democratic Workers' Union of Northern Germany"
+ GER_radical_rationalist_party:0 "FVP"
+ GER_radical_rationalist_party_long:0 "Freisinnige Volkspartei - Free-minded People's Party"
+ GER_social_paternalist_party:0 "KPN"
+ GER_social_paternalist_party_long:0 "Kristliche Partei Norddeutschlands - Christian Party of Norhtern Germany"
+ GER_revolutionary_romanticist_party:0 "BdV"
+ GER_revolutionary_romanticist_party_long:0 "Bruderschaft des Veteranen - Brotherhood of Veterans"
+ GER_ancienist_party:0 "Junkerbund"
+ GER_ancienist_party_long:0 "Junkerbund - Association of Junkers"

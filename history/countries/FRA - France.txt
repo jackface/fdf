@@ -81,6 +81,7 @@ puppet = VIN
 puppet = YUN
 puppet = GXC
 puppet = HAW
+puppet = PAK
 
 set_politics = {
 	ruling_party = social_paternalist
