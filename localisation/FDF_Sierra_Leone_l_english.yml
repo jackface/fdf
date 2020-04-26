@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ SIE_radical_populist:0 "Republic of Sierra Leone"
+ SIE_radical_populist_DEF:0 "The Republic of Sierra Leone"
+ SIE_radical_populist_ADJ:0 "Sierra Leonean"
+ SIE_chartist:0 "Republic of Sierra Leone"
+ SIE_chartist_DEF:0 "The Republic of Sierra Leone"
+ SIE_chartist_ADJ:0 "Sierra Leonean"
+ SIE_radical_liberal:0 "Republic of Sierra Leone"
+ SIE_radical_liberal_DEF:0 "The Republic of Sierra Leone"
+ SIE_radical_liberal_ADJ:0 "Sierra Leonean"
+ SIE_conservative_democrat:0 "Republic of Sierra Leone"
+ SIE_conservative_democrat_DEF:0 "The Republic of Sierra Leone"
+ SIE_conservative_democrat_ADJ:0 "Sierra Leonean"
+ SIE_ultraromanticist:0 "Republic of Sierra Leone"
+ SIE_ultraromanticist_DEF:0 "The Republic of Sierra Leone"
+ SIE_ultraromanticist_ADJ:0 "Sierra Leonean"
+ SIE_traditionalist:0 "Republic of Sierra Leone"
+ SIE_traditionalist_DEF:0 "The Republic of Sierra Leone"
+ SIE_traditionalist_ADJ:0 "Sierra Leonean"
+ 
+ SIE_DWA_radical_populist:0 "Dutch West Africa"
+ SIE_DWA_radical_populist_DEF:0 "The Dutch West Africa"
+ SIE_DWA_radical_populist_ADJ:0 "Dutch-West African"
+ SIE_DWA_chartist:0 "Dutch West Africa"
+ SIE_DWA_chartist_DEF:0 "The Dutch West Africa"
+ SIE_DWA_chartist_ADJ:0 "Dutch-West African"
+ SIE_DWA_radical_liberal:0 "Dutch West Africa"
+ SIE_DWA_radical_liberal_DEF:0 "The Dutch West Africa"
+ SIE_DWA_radical_liberal_ADJ:0 "Dutch-West African"
+ SIE_DWA_conservative_democrat:0 "Dutch West Africa"
+ SIE_DWA_conservative_democrat_DEF:0 "The Dutch West Africa"
+ SIE_DWA_conservative_democrat_ADJ:0 "Dutch-West African"
+ SIE_DWA_ultraromanticist:0 "Dutch West Africa"
+ SIE_DWA_ultraromanticist_DEF:0 "The Dutch West Africa"
+ SIE_DWA_ultraromanticist_ADJ:0 "Dutch-West African"
+ SIE_DWA_traditionalist:0 "Dutch West Africa"
+ SIE_DWA_traditionalist_DEF:0 "The Dutch West Africa"
+ SIE_DWA_traditionalist_ADJ:0 "Dutch-West African"
+ 
+ 
+ #Parties

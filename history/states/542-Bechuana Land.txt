@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = AUS
+		owner = NMB
 		buildings = {
 			infrastructure = 1
 		}

@@ -5,7 +5,7 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		owner = FRA
+		owner = SUD
 		
 		
 		victory_points = { 

@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ SAF_radical_populist:0 "South African Republic"
+ SAF_radical_populist_DEF:0 "The South African Republic"
+ SAF_radical_populist_ADJ:0 "South African"
+ SAF_chartist:0 "South African Republic"
+ SAF_chartist_DEF:0 "The South African Republic"
+ SAF_chartist_ADJ:0 "South African"
+ SAF_radical_liberal:0 "South African Republic"
+ SAF_radical_liberal_DEF:0 "The South African Republic"
+ SAF_radical_liberal_ADJ:0 "South African"
+ SAF_conservative_democrat:0 "South African Republic"
+ SAF_conservative_democrat_DEF:0 "The South African Republic"
+ SAF_conservative_democrat_ADJ:0 "South African"
+ SAF_ultraromanticist:0 "South African Republic"
+ SAF_ultraromanticist_DEF:0 "The South African Republic"
+ SAF_ultraromanticist_ADJ:0 "South African"
+ SAF_traditionalist:0 "South African Republic"
+ SAF_traditionalist_DEF:0 "The South African Republic"
+ SAF_traditionalist_ADJ:0 "South African"
+ 
+ SAF_SSAT_radical_populist:0 "Spanish South African Territory"
+ SAF_SSAT_radical_populist_DEF:0 "The Spanish South African Territory"
+ SAF_SSAT_radical_populist_ADJ:0 "Spanish-South African"
+ SAF_SSAT_chartist:0 "Spanish South African Territory"
+ SAF_SSAT_chartist_DEF:0 "The Spanish South African Territory"
+ SAF_SSAT_chartist_ADJ:0 "Spanish-South African"
+ SAF_SSAT_radical_liberal:0 "Spanish South African Territory"
+ SAF_SSAT_radical_liberal_DEF:0 "The Spanish South African Territory"
+ SAF_SSAT_radical_liberal_ADJ:0 "Spanish-South African"
+ SAF_SSAT_conservative_democrat:0 "Spanish South African Territory"
+ SAF_SSAT_conservative_democrat_DEF:0 "The Spanish South African Territory"
+ SAF_SSAT_conservative_democrat_ADJ:0 "Spanish-South African"
+ SAF_SSAT_ultraromanticist:0 "Spanish South African Territory"
+ SAF_SSAT_ultraromanticist_DEF:0 "The Spanish South African Territory"
+ SAF_SSAT_ultraromanticist_ADJ:0 "Spanish-South African"
+ SAF_SSAT_traditionalist:0 "Spanish South African Territory"
+ SAF_SSAT_traditionalist_DEF:0 "The Spanish South African Territory"
+ SAF_SSAT_traditionalist_ADJ:0 "Spanish-South African"
+ 
+ 
+ #Parties

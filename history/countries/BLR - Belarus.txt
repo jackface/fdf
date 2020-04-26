@@ -60,7 +60,15 @@ if = {
 	}
 }
 
-set_popularities = {	chartist = 15	radical_rationalist = 20	radical_populist = 60	social_paternalist = 5
+set_popularities = {
+	radical_populist = 15
+	montagnardist = 0
+	chartist = 13
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {
@@ -68,7 +76,7 @@ create_country_leader = {
     desc = ""
     picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
     expire = "1965.1.1"
-    ideology = radical_rationalist_ideology
+    ideology = radical_liberal_ideology
     traits = {
         #
     }
@@ -79,7 +87,7 @@ create_country_leader = {
     desc = ""
     picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
     expire = "1965.1.1"
-    ideology = social_paternalist_ideology
+    ideology = conservative_democrat_ideology
     traits = {
         #
     }

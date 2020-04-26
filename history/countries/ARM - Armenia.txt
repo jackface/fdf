@@ -61,9 +61,15 @@ if = {
 	}
 }
 
-set_popularities = {	social_paternalist = 34
-	chartist = 30
-	radical_populist = 36
+set_popularities = {
+	radical_populist = 15
+	montagnardist = 0
+	chartist = 13
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {
@@ -71,32 +77,8 @@ create_country_leader = {
 	desc = ""
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
 	expire = "1953.3.1"
-	ideology = social_paternalist_ideology
+	ideology = conservative_democrat_ideology
 	traits = {
 		
 	}
 }
-
-create_country_leader = {
-	name = "Hovhannes Kajaznuni"
-	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
-	expire = "1953.3.1"
-	ideology = chartist_ideology
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Grigor Harutyunyan"
-	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
-	expire = "1953.3.1"
-	ideology = radical_populist_ideology
-	traits = {
-		
-	}
-}
-
-

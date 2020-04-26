@@ -39,11 +39,13 @@ set_politics = {
 }
 set_popularities = {
 	radical_populist = 15
+	montagnardist = 0
 	chartist = 13
-	radical_rationalist = 30
-	social_paternalist = 31
-	revolutionary_romanticist = 7
-	ancienist = 4
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 

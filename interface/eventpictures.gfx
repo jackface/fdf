@@ -1,0 +1,17 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "french_lore_event"
+		texturefile = "gfx/event_pictures/report_event/french_lore_event.dds"
+	}
+	
+	spriteType = {
+		name = "zurich_treaty_ending"
+		texturefile = "gfx/event_pictures/report_event/zurich_treaty_ending.dds"
+	}
+	
+	spriteType = {
+		name = "extension_of_zuerich"
+		texturefile = "gfx/event_pictures/report_event/extension_of_zuerich.dds"
+	}
+}

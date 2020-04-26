@@ -9,7 +9,7 @@ set_war_support = 0.1
 set_stability = 0.8
 
 set_politics = {
-	ruling_party = ancienist
+	ruling_party = traditionalist
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -17,11 +17,13 @@ set_politics = {
 
 set_popularities = {
 	radical_populist = 15
+	montagnardist = 0
 	chartist = 13
-	radical_rationalist = 30
-	social_paternalist = 31
-	revolutionary_romanticist = 7
-	ancienist = 4
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {
@@ -29,7 +31,7 @@ create_country_leader = {
 	desc = "POLITICS_UGYEN_WANGCHUCK_DESC"
 	picture = "HM_Ugyen_Wangchuck.dds"
 	expire = "1965.1.1"
-	ideology = ancienist_ideology
+	ideology = traditionalist_ideology
 	traits = {
 		#
 	}

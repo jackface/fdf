@@ -86,21 +86,24 @@ if = {
 }
 
 set_politics = {
-	ruling_party = social_paternalist
+	ruling_party = conservative_democrat
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no ##suspended through duration of war, which is handled via event
 }
 set_popularities = {
 	radical_populist = 15
+	montagnardist = 0
 	chartist = 13
-	radical_rationalist = 30
-	social_paternalist = 31
-	revolutionary_romanticist = 7
-	ancienist = 4
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 puppet = BRM
+puppet = NGA
 
 
 create_country_leader = {
@@ -108,7 +111,7 @@ create_country_leader = {
 	desc = "POLITICS_PHILIP_KERR_DESC"
 	picture = "Philip_Kerr.dds"
 	expire = "1965.1.1"
-	ideology = social_paternalist_ideology
+	ideology = conservative_democrat_ideology
 	traits = {
 		
 	}

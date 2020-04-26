@@ -19,18 +19,20 @@ set_technology = {
 
 
 set_politics = {
-	ruling_party = social_paternalist
+	ruling_party = conservative_democrat
 	last_election = "1935.3.31"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	radical_populist = 17
-	chartist = 19
-	radical_rationalist = 17
-	social_paternalist = 20
-	revolutionary_romanticist = 16
-	ancienist = 11
+	radical_populist = 15
+	montagnardist = 0
+	chartist = 13
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {
@@ -38,7 +40,7 @@ create_country_leader = {
 	desc = "POLITICS_PETI_BATHORY_DESC"
 	picture = "Peti_Bathory.dds"
 	expire = "1965.1.1"
-	ideology = social_paternalist_ideology
+	ideology = conservative_democrat_ideology
 	traits = {
 		#
 	}

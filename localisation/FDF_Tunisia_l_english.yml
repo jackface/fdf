@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ TUN_radical_populist:0 "Kingdom of Tunisia"
+ TUN_radical_populist_DEF:0 "The Kingdom of Tunisia"
+ TUN_radical_populist_ADJ:0 "Tunisian"
+ TUN_chartist:0 "Kingdom of Tunisia"
+ TUN_chartist_DEF:0 "The Kingdom of Tunisia"
+ TUN_chartist_ADJ:0 "Tunisian"
+ TUN_radical_liberal:0 "Kingdom of Tunisia"
+ TUN_radical_liberal_DEF:0 "The Kingdom of Tunisia"
+ TUN_radical_liberal_ADJ:0 "Tunisian"
+ TUN_conservative_democrat:0 "Kingdom of Tunisia"
+ TUN_conservative_democrat_DEF:0 "The Kingdom of Tunisia"
+ TUN_conservative_democrat_ADJ:0 "Tunisian"
+ TUN_ultraromanticist:0 "Kingdom of Tunisia"
+ TUN_ultraromanticist_DEF:0 "The Kingdom of Tunisia"
+ TUN_ultraromanticist_ADJ:0 "Tunisian"
+ TUN_traditionalist:0 "Kingdom of Tunisia"
+ TUN_traditionalist_DEF:0 "The Kingdom of Tunisia"
+ TUN_traditionalist_ADJ:0 "Tunisian"
+ 
+ TUN_GTT_radical_populist:0 "German Tunis Territory"
+ TUN_GTT_radical_populist_DEF:0 "The German Tunis Territory"
+ TUN_GTT_radical_populist_ADJ:0 "German-Tunisian"
+ TUN_GTT_chartist:0 "German Tunis Territory"
+ TUN_GTT_chartist_DEF:0 "The German Tunis Territory"
+ TUN_GTT_chartist_ADJ:0 "German-Tunisian"
+ TUN_GTT_radical_liberal:0 "German Tunis Territory"
+ TUN_GTT_radical_liberal_DEF:0 "The German Tunis Territory"
+ TUN_GTT_radical_liberal_ADJ:0 "German-Tunisian"
+ TUN_GTT_conservative_democrat:0 "German Tunis Territory"
+ TUN_GTT_conservative_democrat_DEF:0 "The German Tunis Territory"
+ TUN_GTT_conservative_democrat_ADJ:0 "German-Tunisian"
+ TUN_GTT_ultraromanticist:0 "German Tunis Territory"
+ TUN_GTT_ultraromanticist_DEF:0 "The German Tunis Territory"
+ TUN_GTT_ultraromanticist_ADJ:0 "German-Tunisian"
+ TUN_GTT_traditionalist:0 "German Tunis Territory"
+ TUN_GTT_traditionalist_DEF:0 "The German Tunis Territory"
+ TUN_GTT_traditionalist_ADJ:0 "German-Tunisian"
+ 
+ 
+ #Parties

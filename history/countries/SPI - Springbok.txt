@@ -58,18 +58,20 @@ if = {
 }
 
 set_politics = {
-	ruling_party = ancienist
+	ruling_party = conservative_democrat
 	last_election = "1933.4.26"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
 	radical_populist = 15
+	montagnardist = 0
 	chartist = 13
-	radical_rationalist = 30
-	social_paternalist = 31
-	revolutionary_romanticist = 7
-	ancienist = 4
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 set_convoys = 150
@@ -80,7 +82,7 @@ create_country_leader = {
 	desc = "POLITICS_WILLIAM_BENEDICT_MALAN_DESC"
 	picture = "William_Benedict_Malan.dds"
 	expire = "1965.1.1"
-	ideology = ancienist_ideology
+	ideology = conservative_democrat_ideology
 	traits = {
 	}
 }

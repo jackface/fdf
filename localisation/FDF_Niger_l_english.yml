@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ NGR_radical_populist:0 "Kingdom of Benin"
+ NGR_radical_populist_DEF:0 "The Kingdom of Benin"
+ NGR_radical_populist_ADJ:0 "Beninese"
+ NGR_chartist:0 "Kingdom of Benin"
+ NGR_chartist_DEF:0 "The Kingdom of Benin"
+ NGR_chartist_ADJ:0 "Beninese"
+ NGR_radical_liberal:0 "Kingdom of Benin"
+ NGR_radical_liberal_DEF:0 "The Kingdom of Benin"
+ NGR_radical_liberal_ADJ:0 "Beninese"
+ NGR_conservative_democrat:0 "Kingdom of Benin"
+ NGR_conservative_democrat_DEF:0 "The Kingdom of Benin"
+ NGR_conservative_democrat_ADJ:0 "Beninese"
+ NGR_ultraromanticist:0 "Kingdom of Benin"
+ NGR_ultraromanticist_DEF:0 "The Kingdom of Benin"
+ NGR_ultraromanticist_ADJ:0 "Beninese"
+ NGR_traditionalist:0 "Kingdom of Benin"
+ NGR_traditionalist_DEF:0 "The Kingdom of Benin"
+ NGR_traditionalist_ADJ:0 "Beninese"
+ 
+ NGR_DBT_radical_populist:0 "Dutch Benin Territory"
+ NGR_DBT_radical_populist_DEF:0 "The Dutch Benin Territory"
+ NGR_DBT_radical_populist_ADJ:0 "Dutch-Beninese"
+ NGR_DBT_chartist:0 "Dutch Benin Territory"
+ NGR_DBT_chartist_DEF:0 "The Dutch Benin Territory"
+ NGR_DBT_chartist_ADJ:0 "Dutch-Beninese"
+ NGR_DBT_radical_liberal:0 "Dutch Benin Territory"
+ NGR_DBT_radical_liberal_DEF:0 "The Dutch Benin Territory"
+ NGR_DBT_radical_liberal_ADJ:0 "Dutch-Beninese"
+ NGR_DBT_conservative_democrat:0 "Dutch Benin Territory"
+ NGR_DBT_conservative_democrat_DEF:0 "The Dutch Benin Territory"
+ NGR_DBT_conservative_democrat_ADJ:0 "Dutch-Beninese"
+ NGR_DBT_ultraromanticist:0 "Dutch Benin Territory"
+ NGR_DBT_ultraromanticist_DEF:0 "The Dutch Benin Territory"
+ NGR_DBT_ultraromanticist_ADJ:0 "Dutch-Beninese"
+ NGR_DBT_traditionalist:0 "Dutch Benin Territory"
+ NGR_DBT_traditionalist_DEF:0 "The Dutch Benin Territory"
+ NGR_DBT_traditionalist_ADJ:0 "Dutch-Beninese"
+ 
+ 
+ #Parties

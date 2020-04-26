@@ -10,7 +10,7 @@ set_technology = {
 
 
 set_politics = {
-	ruling_party = ancienist
+	ruling_party = enlightened_despot
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -18,11 +18,13 @@ set_politics = {
 
 set_popularities = {
 	radical_populist = 15
+	montagnardist = 0
 	chartist = 13
-	radical_rationalist = 30
-	social_paternalist = 31
-	revolutionary_romanticist = 7
-	ancienist = 4
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {
@@ -30,7 +32,7 @@ create_country_leader = {
 	desc = "POLITICS_HIS_MAJESTY_LARO_ARAD_AFGHANISHAH_DESC"
 	picture = "Laro_Arad_Afghanishah.dds"
 	expire = "1965.1.1"
-	ideology = ancienist_ideology
+	ideology = enlightened_despot_ideology
 	traits = {
 		#
 	}

@@ -427,23 +427,23 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_ideology_radical_rationalist_group"
-		texturefile = "gfx/interface/ideologies/radical_rationalist_group.dds"
+		name = "GFX_ideology_radical_liberal_group"
+		texturefile = "gfx/interface/ideologies/radical_liberal_group.dds"
 	}
 	
 	spriteType = {
-		name = "GFX_ideology_social_paternalist_group"
-		texturefile = "gfx/interface/ideologies/social_paternalist_group.dds"
+		name = "GFX_ideology_conservative_democrat_group"
+		texturefile = "gfx/interface/ideologies/conservative_democrat_group.dds"
 	}
 	
 	spriteType = {
-		name = "GFX_ideology_revolutionary_romanticist_group"
-		texturefile = "gfx/interface/ideologies/revolutionary_romanticist_group.dds"
+		name = "GFX_ideology_ultraromanticist_group"
+		texturefile = "gfx/interface/ideologies/ultraromanticist_group.dds"
 	}
 	
 	spriteType = {
-		name = "GFX_ideology_ancienist_group"
-		texturefile = "gfx/interface/ideologies/ancienist_group.dds"
+		name = "GFX_ideology_traditionalist_group"
+		texturefile = "gfx/interface/ideologies/traditionalist_group.dds"
 	}
 	
 	spriteType = {

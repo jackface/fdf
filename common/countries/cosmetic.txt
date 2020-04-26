@@ -357,6 +357,21 @@ JAP_DJM = {
     color_ui = rgb { 255 179 96 }
 }
 
+SIE_DWA = {
+    color = rgb { 203 138 74 }
+    color_ui = rgb { 255 179 96 }
+}
+
+NGR_DBT = {
+    color = rgb { 203 138 74 }
+    color_ui = rgb { 255 179 96 }
+}
+
+CAR_DCA = {
+    color = rgb { 203 138 74 }
+    color_ui = rgb { 255 179 96 }
+}
+
 MAL_FB = {
     color = rgb { 72 97 206 }
     color_ui = rgb { 72 97 206 }
@@ -368,6 +383,16 @@ VIN_FT = {
 }
 
 YUN_FD = {
+    color = rgb { 72 97 206 }
+    color_ui = rgb { 72 97 206 }
+}
+
+CMR_FCA = {
+    color = rgb { 72 97 206 }
+    color_ui = rgb { 72 97 206 }
+}
+
+MLI_FWA = {
     color = rgb { 72 97 206 }
     color_ui = rgb { 72 97 206 }
 }
@@ -387,12 +412,42 @@ PAK_FIS = {
     color_ui = rgb { 72 97 206 }
 }
 
+SUD_FEA = {
+    color = rgb { 72 97 206 }
+    color_ui = rgb { 72 97 206 }
+}
+
+MAD_FM = {
+    color = rgb { 72 97 206 }
+    color_ui = rgb { 72 97 206 }
+}
+
 BRM_BCRB = {
     color = rgb { 161 92 103 }
     color_ui = rgb { 161 92 103 }
 }
 
+NGA_CRN = {
+    color = rgb { 161 92 103 }
+    color_ui = rgb { 161 92 103 }
+}
+
 SIA_SIT = {
+    color = rgb { 249 229 90 }
+    color_ui = rgb { 249 229 90 }
+}
+
+SAF_SSAT = {
+    color = rgb { 249 229 90 }
+    color_ui = rgb { 249 229 90 }
+}
+
+EQG_SEAT = {
+    color = rgb { 249 229 90 }
+    color_ui = rgb { 249 229 90 }
+}
+
+GAM_SGT = {
     color = rgb { 249 229 90 }
     color_ui = rgb { 249 229 90 }
 }
@@ -417,12 +472,37 @@ TZN_GEAT = {
     color_ui = rgb { 135 165 165 }
 }
 
+NMB_GAFS = {
+    color = rgb { 135 165 165 }
+    color_ui = rgb { 135 165 165 }
+}
+
+TUN_GTT = {
+    color = rgb { 135 165 165 }
+    color_ui = rgb { 135 165 165 }
+}
+
+YUZ_RYC = {
+    color = rgb { 109 152 101 }
+    color_ui = rgb { 109 152 101 }
+}
+
 PHI_PPC = {
     color = rgb { 90 114 152 }
     color_ui = rgb { 90 114 152 }
 }
 
+ANG_PCA = {
+    color = rgb { 90 114 152 }
+    color_ui = rgb { 90 114 152 }
+}
+
 ETH_PJC = {
+    color = rgb { 90 114 152 }
+    color_ui = rgb { 90 114 152 }
+}
+
+GNB_PG = {
     color = rgb { 90 114 152 }
     color_ui = rgb { 90 114 152 }
 }
@@ -437,7 +517,17 @@ SOL_DPT = {
     color_ui = rgb { 191 127 119 }
 }
 
+GHA_DGC = {
+    color = rgb { 191 127 119 }
+    color_ui = rgb { 191 127 119 }
+}
+
 BAN_DBT = {
+    color = rgb { 191 127 119 }
+    color_ui = rgb { 191 127 119 }
+}
+
+GRI_DGC = {
     color = rgb { 191 127 119 }
     color_ui = rgb { 191 127 119 }
 }

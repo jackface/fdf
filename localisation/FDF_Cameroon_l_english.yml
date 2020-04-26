@@ -1,0 +1,51 @@
+﻿l_english:
+ 
+ #Country Name
+ 
+ CMR_radical_populist:0 "Kingdom of Cameroon"
+ CMR_radical_populist_DEF:0 "The Kingdom of Cameroon"
+ CMR_radical_populist_ADJ:0 "Cameroonian"
+ CMR_chartist:0 "Kingdom of Cameroon"
+ CMR_chartist_DEF:0 "The Kingdom of Cameroon"
+ CMR_chartist_ADJ:0 "Cameroonian"
+ CMR_radical_liberal:0 "Kingdom of Cameroon"
+ CMR_radical_liberal_DEF:0 "The Kingdom of Cameroon"
+ CMR_radical_liberal_ADJ:0 "Cameroonian"
+ CMR_conservative_democrat:0 "Kingdom of Cameroon"
+ CMR_conservative_democrat_DEF:0 "The Kingdom of Cameroon"
+ CMR_conservative_democrat_ADJ:0 "Cameroonian"
+ CMR_enlightened_despot:0 "Kingdom of Cameroon"
+ CMR_enlightened_despot_DEF:0 "The Kingdom of Cameroon"
+ CMR_enlightened_despot_ADJ:0 "Cameroonian"
+ CMR_ultraromanticist:0 "Kingdom of Cameroon"
+ CMR_ultraromanticist_DEF:0 "The Kingdom of Cameroon"
+ CMR_ultraromanticist_ADJ:0 "Cameroonian"
+ CMR_traditionalist:0 "Kingdom of Cameroon"
+ CMR_traditionalist_DEF:0 "The Kingdom of Cameroon"
+ CMR_traditionalist_ADJ:0 "Cameroonian"
+ 
+ CMR_FCA_radical_populist:0 "French Central Africa"
+ CMR_FCA_radical_populist_DEF:0 "The French Central Africa"
+ CMR_FCA_radical_populist_ADJ:0 "French-Central African"
+ CMR_FCA_chartist:0 "French Central Africa"
+ CMR_FCA_chartist_DEF:0 "The French Central Africa"
+ CMR_FCA_chartist_ADJ:0 "French-Central African"
+ CMR_FCA_radical_liberal:0 "French Central Africa"
+ CMR_FCA_radical_liberal_DEF:0 "The French Central Africa"
+ CMR_FCA_radical_liberal_ADJ:0 "French-Central African"
+ CMR_FCA_conservative_democrat:0 "French Central Africa"
+ CMR_FCA_conservative_democrat_DEF:0 "The French Central Africa"
+ CMR_FCA_conservative_democrat_ADJ:0 "French-Central African"
+ CMR_FCA_enlightened_despot:0 "French Central Africa"
+ CMR_FCA_enlightened_despot_DEF:0 "The French Central Africa"
+ CMR_FCA_enlightened_despot_ADJ:0 "French-Central African"
+ CMR_FCA_ultraromanticist:0 "French Central Africa"
+ CMR_FCA_ultraromanticist_DEF:0 "The French Central Africa"
+ CMR_FCA_ultraromanticist_ADJ:0 "French-Central African"
+ CMR_FCA_traditionalist:0 "French Central Africa"
+ CMR_FCA_traditionalist_DEF:0 "The French Central Africa"
+ CMR_FCA_traditionalist_ADJ:0 "French-Central African"
+ 
+ #Parties
+ 
+ 

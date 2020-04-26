@@ -67,7 +67,7 @@ if = {
 set_convoys = 25
 
 set_politics = {
-	ruling_party = social_paternalist
+	ruling_party = enlightened_despot
 	last_election = "1934.3.26"
 	election_frequency = 60
 	elections_allowed = no
@@ -75,11 +75,13 @@ set_politics = {
 
 set_popularities = {
 	radical_populist = 15
+	montagnardist = 0
 	chartist = 13
-	radical_rationalist = 30
-	social_paternalist = 31
-	revolutionary_romanticist = 7
-	ancienist = 4
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 set_cosmetic_tag = MAL_FB
@@ -89,7 +91,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Aime_Joseph_de_Fleuriau.dds"
 	expire = "1953.3.1"
-	ideology = social_paternalist_ideology
+	ideology = enlightened_despot_ideology
 	traits = {
 		
 	}

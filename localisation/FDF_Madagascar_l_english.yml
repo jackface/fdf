@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ MAD_radical_populist:0 "Kingdom of Madagascar"
+ MAD_radical_populist_DEF:0 "The Kingdom of Madagascar"
+ MAD_radical_populist_ADJ:0 "Madagascan"
+ MAD_chartist:0 "Kingdom of Madagascar"
+ MAD_chartist_DEF:0 "The Kingdom of Madagascar"
+ MAD_chartist_ADJ:0 "Madagascan"
+ MAD_radical_liberal:0 "Kingdom of Madagascar"
+ MAD_radical_liberal_DEF:0 "The Kingdom of Madagascar"
+ MAD_radical_liberal_ADJ:0 "Madagascan"
+ MAD_conservative_democrat:0 "Kingdom of Madagascar"
+ MAD_conservative_democrat_DEF:0 "The Kingdom of Madagascar"
+ MAD_conservative_democrat_ADJ:0 "Madagascan"
+ MAD_ultraromanticist:0 "Kingdom of Madagascar"
+ MAD_ultraromanticist_DEF:0 "The Kingdom of Madagascar"
+ MAD_ultraromanticist_ADJ:0 "Madagascan"
+ MAD_traditionalist:0 "Kingdom of Madagascar"
+ MAD_traditionalist_DEF:0 "The Kingdom of Madagascar"
+ MAD_traditionalist_ADJ:0 "Madagascan"
+ 
+ MAD_FM_radical_populist:0 "French Madagascar"
+ MAD_FM_radical_populist_DEF:0 "The French Madagascar"
+ MAD_FM_radical_populist_ADJ:0 "French-Madagascan"
+ MAD_FM_chartist:0 "French Madagascar"
+ MAD_FM_chartist_DEF:0 "The French Madagascar"
+ MAD_FM_chartist_ADJ:0 "French-Madagascan"
+ MAD_FM_radical_liberal:0 "French Madagascar"
+ MAD_FM_radical_liberal_DEF:0 "The French Madagascar"
+ MAD_FM_radical_liberal_ADJ:0 "French-Madagascan"
+ MAD_FM_conservative_democrat:0 "French Madagascar"
+ MAD_FM_conservative_democrat_DEF:0 "The French Madagascar"
+ MAD_FM_conservative_democrat_ADJ:0 "French-Madagascan"
+ MAD_FM_ultraromanticist:0 "French Madagascar"
+ MAD_FM_ultraromanticist_DEF:0 "The French Madagascar"
+ MAD_FM_ultraromanticist_ADJ:0 "French-Madagascan"
+ MAD_FM_traditionalist:0 "French Madagascar"
+ MAD_FM_traditionalist_DEF:0 "The French Madagascar"
+ MAD_FM_traditionalist_ADJ:0 "French-Madagascan"
+ 
+ 
+ #Parties

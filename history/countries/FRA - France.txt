@@ -73,6 +73,9 @@ if = {
 	}
 }
 
+create_faction = treaty_of_zuerich
+add_to_faction = SWI
+add_to_faction = SPR
 
 set_convoys = 300
 
@@ -82,20 +85,37 @@ puppet = YUN
 puppet = GXC
 puppet = HAW
 puppet = PAK
+puppet = EGY
+puppet = SUD
+puppet = MAD
+puppet = CMR
+puppet = MLI
 
 set_politics = {
-	ruling_party = social_paternalist
+	ruling_party = conservative_democrat
 	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
 	radical_populist = 15
+	montagnardist = 0
 	chartist = 13
-	radical_rationalist = 30
-	social_paternalist = 31
-	revolutionary_romanticist = 7
-	ancienist = 4
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
+}
+
+create_country_leader = {
+	name = "Charles de Foucauld"
+	desc = "POLITICS_CHARLES_DE_FOUCAULD_DESC"
+	picture = "Charles_de_Foucauld.dds"
+	expire = "1965.1.1"
+	ideology = chartist_ideology
+	traits = {
+	}
 }
 
 create_country_leader = {
@@ -103,8 +123,18 @@ create_country_leader = {
 	desc = "POLITICS_BAPTISTE_DESCHAMPS_DESC"
 	picture = "Baptiste_Deschamps.dds"
 	expire = "1965.1.1"
-	ideology = social_paternalist_ideology
+	ideology = conservative_democrat_ideology
 	traits = {
 		stout_defender
+	}
+}
+
+create_country_leader = {
+	name = "Georges Bernanos"
+	desc = "POLITICS_GEORGES_BERNANOS_DESC"
+	picture = "Georges_Bernanos.dds"
+	expire = "1965.1.1"
+	ideology = traditionalist_ideology
+	traits = {
 	}
 }

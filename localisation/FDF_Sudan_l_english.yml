@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ SUD_radical_populist:0 "Sudanese Kingdom"
+ SUD_radical_populist_DEF:0 "The Sudanese Kingdom"
+ SUD_radical_populist_ADJ:0 "Sudanese"
+ SUD_chartist:0 "Sudanese Kingdom"
+ SUD_chartist_DEF:0 "The Sudanese Kingdom"
+ SUD_chartist_ADJ:0 "Sudanese"
+ SUD_radical_liberal:0 "Sudanese Kingdom"
+ SUD_radical_liberal_DEF:0 "The Sudanese Kingdom"
+ SUD_radical_liberal_ADJ:0 "Sudanese"
+ SUD_conservative_democrat:0 "Sudanese Kingdom"
+ SUD_conservative_democrat_DEF:0 "The Sudanese Kingdom"
+ SUD_conservative_democrat_ADJ:0 "Sudanese"
+ SUD_ultraromanticist:0 "Sudanese Kingdom"
+ SUD_ultraromanticist_DEF:0 "The Sudanese Kingdom"
+ SUD_ultraromanticist_ADJ:0 "Sudanese"
+ SUD_traditionalist:0 "Sudanese Kingdom"
+ SUD_traditionalist_DEF:0 "The Sudanese Kingdom"
+ SUD_traditionalist_ADJ:0 "Sudanese"
+ 
+ SUD_FEA_radical_populist:0 "French East Africa"
+ SUD_FEA_radical_populist_DEF:0 "The French East Africa"
+ SUD_FEA_radical_populist_ADJ:0 "French-East African"
+ SUD_FEA_chartist:0 "French East Africa"
+ SUD_FEA_chartist_DEF:0 "The French East Africa"
+ SUD_FEA_chartist_ADJ:0 "French-East African"
+ SUD_FEA_radical_liberal:0 "French East Africa"
+ SUD_FEA_radical_liberal_DEF:0 "The French East Africa"
+ SUD_FEA_radical_liberal_ADJ:0 "French-East African"
+ SUD_FEA_conservative_democrat:0 "French East Africa"
+ SUD_FEA_conservative_democrat_DEF:0 "The French East Africa"
+ SUD_FEA_conservative_democrat_ADJ:0 "French-East African"
+ SUD_FEA_ultraromanticist:0 "French East Africa"
+ SUD_FEA_ultraromanticist_DEF:0 "The French East Africa"
+ SUD_FEA_ultraromanticist_ADJ:0 "French-East African"
+ SUD_FEA_traditionalist:0 "French East Africa"
+ SUD_FEA_traditionalist_DEF:0 "The French East Africa"
+ SUD_FEA_traditionalist_ADJ:0 "French-East African"
+ 
+ 
+ #Parties

@@ -40,18 +40,20 @@ set_stability = 0.2
 set_war_support = 0.1
 
 set_politics = {
-	ruling_party = radical_rationalist
+	ruling_party = radical_liberal
 	last_election = "1934.7.1"
 	election_frequency = 72
 	elections_allowed = no
 }
 set_popularities = {
 	radical_populist = 15
+	montagnardist = 0
 	chartist = 13
-	radical_rationalist = 30
-	social_paternalist = 31
-	revolutionary_romanticist = 7
-	ancienist = 4
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {
@@ -59,7 +61,7 @@ create_country_leader = {
 	desc = "POLITICS_FELIX_RUBEN_G_SARMIENTO_DESC"
 	picture = "Felix_Ruben_G_Sarmiento.dds"
 	expire = "1965.1.1"
-	ideology = radical_rationalist_ideology
+	ideology = radical_liberal_ideology
 	traits = {
 		#
 	}

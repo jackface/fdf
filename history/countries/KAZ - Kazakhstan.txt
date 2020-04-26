@@ -59,10 +59,15 @@ if = {
 		basic_torpedo = 1
 	}
 }
-
 set_popularities = {
-	chartist = 60
-	radical_populist = 40
+	radical_populist = 15
+	montagnardist = 0
+	chartist = 13
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {

@@ -52,7 +52,7 @@ set_convoys = 10
 
 
 set_politics = {
-	ruling_party = social_paternalist
+	ruling_party = conservative_democrat
 	last_election = "1935.6.9"
 	election_frequency = 12
 	elections_allowed = no # none after offset 1
@@ -60,11 +60,13 @@ set_politics = {
 
 set_popularities = {
 	radical_populist = 15
+	montagnardist = 0
 	chartist = 13
-	radical_rationalist = 30
-	social_paternalist = 31
-	revolutionary_romanticist = 7
-	ancienist = 4
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 set_stability = 0.75
@@ -74,7 +76,7 @@ create_country_leader = {
 	desc = "POLITICS_DIMITRIOS_GOUNARIS_DESC"
 	picture = "Dimitrios_Gounaris.dds"
 	expire = "1965.1.1"
-	ideology = social_paternalist_ideology
+	ideology = conservative_democrat_ideology
 	traits = {
 		#
 	}

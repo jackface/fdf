@@ -94,18 +94,20 @@ set_war_support = 0.3
 
 
 set_politics = {
-	ruling_party = social_paternalist
+	ruling_party = conservative_democrat
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
 	radical_populist = 15
+	montagnardist = 0
 	chartist = 13
-	radical_rationalist = 30
-	social_paternalist = 31
-	revolutionary_romanticist = 7
-	ancienist = 4
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {
@@ -119,11 +121,21 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Kurt Eisner"
+	desc = "POLITICS_KURT_EISNER_DESC"
+	picture = "Kurt_Eisner.dds"
+	expire = "1965.1.1"
+	ideology = chartist_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
 	name = "Max von Baden"
 	desc = "POLITICS_MAX_VON_BADEN_DESC"
 	picture = "Max_von_Baden.dds"
 	expire = "1965.1.1"
-	ideology = social_paternalist_ideology
+	ideology = conservative_democrat_ideology
 	traits = {
 	}
 }
@@ -133,7 +145,7 @@ create_country_leader = {
 	desc = "POLITICS_KARL_VON_EINEM_DESC"
 	picture = "Karl_von_Einem.dds"
 	expire = "1965.1.1"
-	ideology = revolutionary_romanticist_ideology
+	ideology = ultraromanticist_ideology
 	traits = {
 	}
 }

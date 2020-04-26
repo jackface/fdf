@@ -9,7 +9,7 @@ bookmarks = {
 		
 		"DEN"={
 			history = "DEN_CONCERT_OF_EARTH_DESC"
-			ideology = radical_rationalist
+			ideology = radical_liberal
 			ideas = {
 				
 			}
@@ -19,7 +19,7 @@ bookmarks = {
 		}
 		"ENG"={
 			history = "ENG_CONCERT_OF_EARTH_DESC"
-			ideology = social_paternalist
+			ideology = conservative_democrat
 			ideas = {
 				
 			}
@@ -29,7 +29,7 @@ bookmarks = {
 		}
 		"GER"={
 			history = "GER_CONCERT_OF_EARTH_DESC"
-			ideology = social_paternalist
+			ideology = conservative_democrat
 			ideas = {
 				
 			}
@@ -39,7 +39,7 @@ bookmarks = {
 		}
 		"FRA"={
 			history = "FRA_CONCERT_OF_EARTH_DESC"
-			ideology = social_paternalist
+			ideology = conservative_democrat
 			ideas = {
 				
 			}
@@ -49,7 +49,7 @@ bookmarks = {
 		}
 		"TUR"={
 			history = "TUR_CONCERT_OF_EARTH_DESC"
-			ideology = ancienist
+			ideology = traditionalist
 			ideas = {
 				
 			}	
@@ -59,7 +59,7 @@ bookmarks = {
 		}
 		"RUS"={
 			history = "RUS_CONCERT_OF_EARTH_DESC"
-			ideology = ancienist
+			ideology = traditionalist
 			ideas = {
 				
 			}
@@ -70,7 +70,7 @@ bookmarks = {
 		
 		"AUS"={
 			history = "AUS_CONCERT_OF_EARTH_DESC"
-			ideology = ancienist
+			ideology = traditionalist
 			ideas = {
 				
 			}

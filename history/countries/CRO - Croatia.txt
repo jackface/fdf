@@ -40,18 +40,20 @@ set_convoys = 5
 
 
 set_politics = {
-	ruling_party = social_paternalist
+	ruling_party = enlightened_despot
 	last_election = "1935.6.9"
 	election_frequency = 12
 	elections_allowed = no # none after offset 1
 }
 set_popularities = {
-	radical_populist = 19
-	chartist = 21
-	radical_rationalist = 17
-	social_paternalist = 4
-	revolutionary_romanticist = 38
-	ancienist = 1
+	radical_populist = 15
+	montagnardist = 0
+	chartist = 13
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 
@@ -60,7 +62,7 @@ create_country_leader = {
 	desc = "IVAN_SKERLECZ_DESC"
 	picture = "Ivan_Skerlecz.dds"
 	expire = "1965.1.1"
-	ideology = social_paternalist_ideology
+	ideology = enlightened_despot_ideology
 	traits = {
 		#
 	}

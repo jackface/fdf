@@ -5,7 +5,7 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		owner = RUS
+		owner = YUZ
 	}
 	provinces={
 		8182 8201 10845 12944 12967 

@@ -13,66 +13,24 @@ set_technology = {
 }
 set_country_flag = monroe_doctrine
 
-1939.1.1 = {
 
-	add_political_power = 1198
-	
-	#generic focuses
-	complete_national_focus = army_effort
-	complete_national_focus = equipment_effort
-	complete_national_focus = motorization_effort
-	complete_national_focus = aviation_effort
-	complete_national_focus = construction_effort_2
-	complete_national_focus = production_effort_2
-	complete_national_focus = infrastructure_effort
-	complete_national_focus = industrial_effort
-	complete_national_focus = construction_effort
-	complete_national_focus = production_effort
-	
-	oob = "BOL_1939"
-	set_technology = {
-		interwar_artillery = 1
-		infantry_weapons1 = 1
-		infantry_weapons2 = 1
-		support_weapons = 1
-
-		#doctrines
-		air_superiority = 1
-		grand_battle_plan = 1
-		trench_warfare = 1
-		fleet_in_being = 1
-		battlefleet_concentration = 1
-		convoy_sailing = 1
-
-
-		#electronics
-		electronic_mechanical_engineering = 1
-		radio = 1
-		radio_detection = 1
-		mechanical_computing = 1
-		computing_machine = 1
-
-		#industry
-		basic_machine_tools = 1
-		improved_machine_tools = 1
-		advanced_machine_tools = 1
-		fuel_refining = 1
-		construction1 = 1
-		construction2 = 1
-		dispersed_industry = 1
-		dispersed_industry2 = 1
-	}
-}
 
 set_politics = {
-	ruling_party = radical_rationalist
+	ruling_party = radical_liberal
 	last_election = "1934.11.11"
 	election_frequency = 72
 	elections_allowed = no
 }
 
 set_popularities = {
-	radical_rationalist = 100
+	radical_populist = 15
+	montagnardist = 0
+	chartist = 13
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {
@@ -80,7 +38,7 @@ create_country_leader = {
 	desc = "POLITICS_JOSE_LUIS_TEJADA_SORZANO_DESC"
 	picture = "Portrait_Bolivia_Jose_Luis_Tejada_Sorzano.dds"
 	expire = "1965.1.1"
-	ideology = radical_rationalist_ideology # chartist_ideology, personally, but puppet for military
+	ideology = radical_liberal_ideology # chartist_ideology, personally, but puppet for military
 	traits = {
 		#
 	}
@@ -91,7 +49,7 @@ create_country_leader = {
 	desc = "POLITICS_OSCAR_UNZAGA_DESC"
 	picture = "gfx/leaders/South America/Portrait_South_America_Generic_land_3.dds"
 	expire = "1965.1.1"
-	ideology = social_paternalist_ideology
+	ideology = conservative_democrat_ideology
 	traits = {
 		#
 	}
@@ -99,14 +57,14 @@ create_country_leader = {
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = radical_rationalist
+		ruling_party = radical_liberal
 		last_election = "1934.11.11"
 		election_frequency = 72
 		elections_allowed = no
 	}
 
 	set_popularities = {
-		radical_rationalist = 100
+		radical_liberal = 100
 	}
 
 	create_country_leader = {
@@ -114,7 +72,7 @@ create_country_leader = {
 		desc = "POLITICS_CARLOS_QUINTANILLA_DESC"
 		picture = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
 		expire = "1965.1.1"
-		ideology = radical_rationalist_ideology
+		ideology = radical_liberal_ideology
 		traits = {
 			#
 		}

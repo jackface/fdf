@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Country Name
+ NMB_radical_populist:0 "Namibian Commonality"
+ NMB_radical_populist_DEF:0 "The Namibian Commonality"
+ NMB_radical_populist_ADJ:0 "Namibian"
+ NMB_chartist:0 "Namibian Commonality"
+ NMB_chartist_DEF:0 "The Namibian Commonality"
+ NMB_chartist_ADJ:0 "Namibian"
+ NMB_radical_liberal:0 "Namibian Commonality"
+ NMB_radical_liberal_DEF:0 "The Namibian Commonality"
+ NMB_radical_liberal_ADJ:0 "Namibian"
+ NMB_conservative_democrat:0 "Namibian Commonality"
+ NMB_conservative_democrat_DEF:0 "The Namibian Commonality"
+ NMB_conservative_democrat_ADJ:0 "Namibian"
+ NMB_ultraromanticist:0 "Namibian Commonality"
+ NMB_ultraromanticist_DEF:0 "The Namibian Commonality"
+ NMB_ultraromanticist_ADJ:0 "Namibian"
+ NMB_traditionalist:0 "Namibian Commonality"
+ NMB_traditionalist_DEF:0 "The Namibian Commonality"
+ NMB_traditionalist_ADJ:0 "Namibian"
+ 
+ NMB_GAFS_radical_populist:0 "German African Free State"
+ NMB_GAFS_radical_populist_DEF:0 "The German African Free State"
+ NMB_GAFS_radical_populist_ADJ:0 "German-African"
+ NMB_GAFS_chartist:0 "German African Free State"
+ NMB_GAFS_chartist_DEF:0 "The German African Free State"
+ NMB_GAFS_chartist_ADJ:0 "German-African"
+ NMB_GAFS_radical_liberal:0 "German African Free State"
+ NMB_GAFS_radical_liberal_DEF:0 "The German African Free State"
+ NMB_GAFS_radical_liberal_ADJ:0 "German-African"
+ NMB_GAFS_conservative_democrat:0 "German African Free State"
+ NMB_GAFS_conservative_democrat_DEF:0 "The German African Free State"
+ NMB_GAFS_conservative_democrat_ADJ:0 "German-African"
+ NMB_GAFS_ultraromanticist:0 "German African Free State"
+ NMB_GAFS_ultraromanticist_DEF:0 "The German African Free State"
+ NMB_GAFS_ultraromanticist_ADJ:0 "German-African"
+ NMB_GAFS_traditionalist:0 "German African Free State"
+ NMB_GAFS_traditionalist_DEF:0 "The German African Free State"
+ NMB_GAFS_traditionalist_ADJ:0 "German-African"
+ 
+ 
+ #Parties

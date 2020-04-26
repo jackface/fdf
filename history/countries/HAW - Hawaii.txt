@@ -10,7 +10,7 @@ set_convoys = 20
 
 
 set_politics = {
-	ruling_party = social_paternalist
+	ruling_party = enlightened_despot
 	last_election = "1936.1.1"
 	elections_allowed = no
 }
@@ -19,18 +19,20 @@ set_cosmetic_tag = HAW_FP
 
 set_popularities = {
 	radical_populist = 15
+	montagnardist = 0
 	chartist = 13
-	radical_rationalist = 30
-	social_paternalist = 31
-	revolutionary_romanticist = 7
-	ancienist = 4
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {
 	name = "Henri Guernut"
 	desc = ""
 	picture = "Henri_Guernut.dds"
-	ideology = social_paternalist_ideology
+	ideology = enlightened_despot_ideology
 	traits = {
 		#
 	}

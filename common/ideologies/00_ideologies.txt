@@ -43,6 +43,48 @@ ideologies = {
 
 	}
 	
+	montagnardist = {
+	
+		types = {
+			
+			montagnardist_ideology = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_CHARTIST_1"
+			"FACTION_NAME_CHARTIST_2"
+			"FACTION_NAME_CHARTIST_3"
+			"FACTION_NAME_CHARTIST_4"
+			"FACTION_NAME_CHARTIST_5"
+			"FACTION_NAME_CHARTIST_6"
+		}
+		
+		color = { 197 76 107 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	
 	chartist = {
 	
 		types = {
@@ -85,11 +127,11 @@ ideologies = {
 		ai_fascist = yes # uses the fascist AI behaviour
 	}
 	
-	radical_rationalist = {
+	radical_liberal = {
 	
 		types = {
 		
-			radical_rationalist_ideology  = {
+			radical_liberal_ideology  = {
 			}
 		}
 
@@ -126,11 +168,11 @@ ideologies = {
 		ai_fascist = yes # uses the fascist AI behaviour
 	}
 	
-	social_paternalist = {
+	conservative_democrat = {
 	
 		types = {
 		
-			social_paternalist_ideology  = {
+			conservative_democrat_ideology  = {
 			}
 		}
 
@@ -167,11 +209,52 @@ ideologies = {
 		ai_fascist = yes # uses the fascist AI behaviour
 	}
 	
-	revolutionary_romanticist = {
+	enlightened_despot = {
 	
 		types = {
 		
-			revolutionary_romanticist_ideology  = {
+			enlightened_despot_ideology  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_SOCPAT_1"
+			"FACTION_NAME_SOCPAT_2"
+			"FACTION_NAME_SOCPAT_3"
+			"FACTION_NAME_SOCPAT_4"
+			"FACTION_NAME_SOCPAT_5"
+		}
+		
+		color = { 16 29 58 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	
+	ultraromanticist = {
+	
+		types = {
+		
+			ultraromanticist_ideology  = {
 			}
 		}
 
@@ -208,11 +291,11 @@ ideologies = {
 		ai_fascist = yes # uses the fascist AI behaviour
 	}
 	
-	ancienist = {
+	traditionalist = {
 	
 		types = {
 		
-			ancienist_ideology  = {
+			traditionalist_ideology  = {
 			}
 		}
 

@@ -60,7 +60,15 @@ if = {
 	}
 }
 
-set_popularities = {	chartist = 25	radical_populist = 75
+set_popularities = {
+	radical_populist = 15
+	montagnardist = 0
+	chartist = 13
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {

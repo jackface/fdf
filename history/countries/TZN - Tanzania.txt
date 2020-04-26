@@ -10,19 +10,21 @@ set_convoys = 20
 set_cosmetic_tag = TZN_GEAT
 
 set_politics = {
-	ruling_party = social_paternalist
+	ruling_party = enlightened_despot
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	radical_populist = 17
-	chartist = 25
-	radical_rationalist = 23
-	social_paternalist = 14
-	revolutionary_romanticist = 17
-	ancienist = 19
+	radical_populist = 15
+	montagnardist = 0
+	chartist = 13
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {
@@ -30,7 +32,7 @@ create_country_leader = {
 	desc = "POLITICS_HIR_PRINCE_HEINRICH_DESC"
 	picture = "Prince_Heinrich.dds"
 	expire = "1965.1.1"
-	ideology = social_paternalist_ideology
+	ideology = enlightened_despot_ideology
 	traits = {
 		#
 	}

@@ -1758,7 +1758,7 @@ focus_tree = {
 		
 		available = {
 			OR = {
-				has_government = revolutionary_romanticist
+				has_government = ultraromanticist
 				has_government = chartist
 				has_government = radical_populist
 			}
@@ -2004,7 +2004,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = revolutionary_romanticist
+			has_government = ultraromanticist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2027,7 +2027,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = revolutionary_romanticist
+			has_government = ultraromanticist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2050,7 +2050,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = revolutionary_romanticist
+			has_government = ultraromanticist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2073,7 +2073,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = revolutionary_romanticist
+			has_government = ultraromanticist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2096,7 +2096,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = revolutionary_romanticist
+			has_government = ultraromanticist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2123,7 +2123,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = revolutionary_romanticist
+			has_government = ultraromanticist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2151,7 +2151,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = revolutionary_romanticist
+			has_government = ultraromanticist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2179,7 +2179,7 @@ focus_tree = {
 		
 		
 		available = {
-			has_government = revolutionary_romanticist
+			has_government = ultraromanticist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2204,7 +2204,7 @@ focus_tree = {
 		
 		
 		available = {
-			has_government = revolutionary_romanticist
+			has_government = ultraromanticist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2449,9 +2449,9 @@ focus_tree = {
 		
 		available = {
 			OR = {
-				has_government = radical_rationalist
-				has_government = social_paternalist
-				has_government = ancienist
+				has_government = radical_liberal
+				has_government = conservative_democrat
+				has_government = traditionalist
 			}
 		}
 	
@@ -2477,7 +2477,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = social_paternalist
+			has_government = conservative_democrat
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2500,7 +2500,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = social_paternalist
+			has_government = conservative_democrat
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2523,7 +2523,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = social_paternalist
+			has_government = conservative_democrat
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2550,7 +2550,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = social_paternalist
+			has_government = conservative_democrat
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2575,7 +2575,7 @@ focus_tree = {
 		
 		
 		available = {
-			has_government = social_paternalist
+			has_government = conservative_democrat
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2598,7 +2598,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = social_paternalist
+			has_government = conservative_democrat
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2625,7 +2625,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = social_paternalist
+			has_government = conservative_democrat
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2650,7 +2650,7 @@ focus_tree = {
 		
 		
 		available = {
-			has_government = social_paternalist
+			has_government = conservative_democrat
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2678,7 +2678,7 @@ focus_tree = {
 		
 		
 		available = {
-			has_government = social_paternalist
+			has_government = conservative_democrat
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2705,7 +2705,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = radical_rationalist
+			has_government = radical_liberal
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2728,7 +2728,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = radical_rationalist
+			has_government = radical_liberal
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2751,7 +2751,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = radical_rationalist
+			has_government = radical_liberal
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2778,7 +2778,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = radical_rationalist
+			has_government = radical_liberal
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2801,7 +2801,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = radical_rationalist
+			has_government = radical_liberal
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2824,7 +2824,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = radical_rationalist
+			has_government = radical_liberal
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2855,7 +2855,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = radical_rationalist
+			has_government = radical_liberal
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2886,7 +2886,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = radical_rationalist
+			has_government = radical_liberal
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2911,7 +2911,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = radical_rationalist
+			has_government = radical_liberal
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2926,7 +2926,7 @@ focus_tree = {
 	##ANcienist path
 	
 	focus = {
-		id = the_holy_spirit #Ancienist
+		id = the_holy_spirit #Traditionalist
 		icon = GFX_goal_generic_demand_territory
 		x = 12
 		y = 2
@@ -2937,7 +2937,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = ancienist
+			has_government = traditionalist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2964,7 +2964,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = ancienist
+			has_government = traditionalist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -2991,7 +2991,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = ancienist
+			has_government = traditionalist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -3014,7 +3014,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = ancienist
+			has_government = traditionalist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -3037,7 +3037,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = ancienist
+			has_government = traditionalist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -3061,7 +3061,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = ancienist
+			has_government = traditionalist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -3084,7 +3084,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = ancienist
+			has_government = traditionalist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -3107,7 +3107,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = ancienist
+			has_government = traditionalist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
@@ -3134,7 +3134,7 @@ focus_tree = {
 		}
 		
 		available = {
-			has_government = ancienist
+			has_government = traditionalist
 		}
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }

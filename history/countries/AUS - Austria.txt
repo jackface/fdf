@@ -17,21 +17,25 @@ puppet = GAL
 puppet = CRO
 puppet = PNG
 puppet = TZN
+puppet = NMB
+puppet = TUN
 
 set_politics = {
-	ruling_party = ancienist
+	ruling_party = traditionalist
 	last_election = "1930.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	radical_populist = 17
-	chartist = 25
-	radical_rationalist = 23
-	social_paternalist = 14
-	revolutionary_romanticist = 17
-	ancienist = 19
+	radical_populist = 15
+	montagnardist = 0
+	chartist = 13
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {
@@ -39,7 +43,7 @@ create_country_leader = {
 	desc = "POLITICS_HIM_KAISER_GEORG_I_DESC"
 	picture = "Kaiser_Georg_I.dds"
 	expire = "1965.1.1"
-	ideology = ancienist_ideology
+	ideology = traditionalist_ideology
 	traits = {
 		#
 	}

@@ -78,18 +78,20 @@ set_convoys = 300
 
 
 set_politics = {
-	ruling_party = social_paternalist
+	ruling_party = enlightened_despot
 	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	radical_populist = 9
-	chartist = 40
-	radical_rationalist = 4
-	social_paternalist = 12
-	revolutionary_romanticist = 19
-	ancienist = 16
+	radical_populist = 15
+	montagnardist = 0
+	chartist = 13
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {
@@ -97,7 +99,7 @@ create_country_leader = {
 	desc = "POLITICS_HRIH_ARCHDUKE_LEOPOLD_SALVATOR_1_DESC"
 	picture = "Leopold_Salvator.dds"
 	expire = "1965.1.1"
-	ideology = social_paternalist_ideology
+	ideology = enlightened_despot_ideology
 	traits = {
 		
 	}

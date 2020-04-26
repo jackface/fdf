@@ -288,6 +288,14 @@ PAP = {
 	color = rgb { 249 91 90 }
 	color_ui = rgb { 249 91 90 }
 }
+YUZ = {
+	color = rgb { 90 91 249 }
+	color_ui = rgb { 90 91 249 }
+}
+SUD = {
+	color = rgb { 135 80 49 }
+	color_ui = rgb { 135 80 49 }
+}
 LIT = {
 	color = rgb { 219 219 119 }
 	color_ui = rgb { 255 255 155 }
@@ -444,8 +452,8 @@ LBA = {
 }
 
 EGY = {
-	color = rgb { 230 230 70 }
-	color_ui = rgb { 230 230 70 }
+	color = rgb { 199 177 135 }
+	color_ui = rgb { 199 177 135 }
 }
 
 PAL = {

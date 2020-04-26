@@ -76,18 +76,20 @@ if = {
 set_convoys = 300
 
 set_politics = {
-	ruling_party = radical_rationalist
+	ruling_party = radical_liberal
 	last_election = "1934.3.26"
 	election_frequency = 60
 	elections_allowed = no
 }
 set_popularities = {
 	radical_populist = 15
+	montagnardist = 0
 	chartist = 13
-	radical_rationalist = 30
-	social_paternalist = 31
-	revolutionary_romanticist = 7
-	ancienist = 4
+	radical_liberal = 30
+	conservative_democrat = 31
+	enlightened_despot = 0
+	ultraromanticist = 7
+	traditionalist = 4
 }
 
 create_country_leader = {
@@ -95,7 +97,7 @@ create_country_leader = {
 	desc = "POLITICS_FREDO_ESPOSITO_DESC"
 	picture = "Fredo_Esposito.dds"
 	expire = "1965.1.1"
-	ideology = radical_rationalist_ideology
+	ideology = radical_liberal_ideology
 	traits = {
 		
 	}
