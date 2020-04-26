@@ -4,6 +4,9 @@
  SPR_radical_populist:0 "United Provinces of Spain"
  SPR_radical_populist_DEF:0 "The United Provinces of Spain"
  SPR_radical_populist_ADJ:0 "Spanish"
+ SPR_montagnardist:0 "United Provinces of Spain"
+ SPR_montagnardist_DEF:0 "The United Provinces of Spain"
+ SPR_montagnardist_ADJ:0 "Spanish"
  SPR_chartist:0 "United Provinces of Spain"
  SPR_chartist_DEF:0 "The United Provinces of Spain"
  SPR_chartist_ADJ:0 "Spanish"
@@ -13,24 +16,32 @@
  SPR_conservative_democrat:0 "United Provinces of Spain"
  SPR_conservative_democrat_DEF:0 "The United Provinces of Spain"
  SPR_conservative_democrat_ADJ:0 "Spanish"
+ SPR_enlightened_despot:0 "United Provinces of Spain"
+ SPR_enlightened_despot_DEF:0 "The United Provinces of Spain"
+ SPR_enlightened_despot_ADJ:0 "Spanish"
  SPR_ultraromanticist:0 "United Provinces of Spain"
  SPR_ultraromanticist_DEF:0 "The United Provinces of Spain"
  SPR_ultraromanticist_ADJ:0 "Spanish"
  SPR_traditionalist:0 "United Provinces of Spain"
  SPR_traditionalist_DEF:0 "The United Provinces of Spain"
- SPR_traditionalist_ADJ:0 "Spanish" #
+ SPR_traditionalist_ADJ:0 "Spanish"
  
  
  #Parties
+
  
  SPR_radical_populist_party:0 ""
  SPR_radical_populist_party_long:0 ""
+ SPR_montagnardist_party:0 ""
+ SPR_montagnardist_party_long:0 ""
  SPR_chartist_party:0 ""
  SPR_chartist_party_long:0 ""
  SPR_radical_liberal_party:0 "Primeras Amigas"
  SPR_radical_liberal_party_long:0 "Club de Amigas de la Revolución - Club of Friends of The Revolution"
  SPR_conservative_democrat_party:0 ""
  SPR_conservative_democrat_party_long:0 ""
+ SPR_enlightened_despot_party:0 ""
+ SPR_enlightened_despot_party_long:0 ""
  SPR_ultraromanticist_party:0 ""
  SPR_ultraromanticist_party_long:0 ""
  SPR_traditionalist_party:0 ""
